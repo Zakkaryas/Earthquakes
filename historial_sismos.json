@@ -29593,5 +29593,67 @@
                 "profundidad_km": 10
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-08-17 19:44:21",
+        "periodo_desde": "2026-08-17 17:55:14",
+        "periodo_hasta": "2026-08-17 19:44:21",
+        "total_sismos_nuevos": 6,
+        "sismos": [
+            {
+                "id": "hv75019812",
+                "magnitud": 4.29,
+                "lugar": "16 km S of Honaunau-Napoopoo, Hawaii",
+                "fecha_evento": "2026-08-17 19:24:08",
+                "latitud": 19.3113327026367,
+                "longitud": -155.840667724609,
+                "profundidad_km": 14.3400001525879
+            },
+            {
+                "id": "nc75420197",
+                "magnitud": 2.48,
+                "lugar": "28 km SE of Bodie, CA",
+                "fecha_evento": "2026-08-17 18:52:05",
+                "latitud": 38.023998260498,
+                "longitud": -118.798500061035,
+                "profundidad_km": 10.6499996185303
+            },
+            {
+                "id": "usd0015efc",
+                "magnitud": 4.9,
+                "lugar": "28 km NE of Colonia, Micronesia",
+                "fecha_evento": "2026-08-17 18:51:11",
+                "latitud": 9.7108,
+                "longitud": 138.2886,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026qgodma",
+                "magnitud": 2.7,
+                "lugar": "2 km NNW of Diamond Ridge, Alaska",
+                "fecha_evento": "2026-08-17 18:33:58",
+                "latitud": 59.699,
+                "longitud": -151.585,
+                "profundidad_km": 63.4
+            },
+            {
+                "id": "usd0015ef3",
+                "magnitud": 4.6,
+                "lugar": "155 km N of Pototano, Indonesia",
+                "fecha_evento": "2026-08-17 18:10:05",
+                "latitud": -7.0242,
+                "longitud": 117.2457,
+                "profundidad_km": 496.552
+            },
+            {
+                "id": "pr71528818",
+                "magnitud": 2.6,
+                "lugar": "6 km WSW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-08-17 18:03:07",
+                "latitud": 17.9473333333333,
+                "longitud": -66.9606666666667,
+                "profundidad_km": 12.82
+            }
+        ]
     }
 ]
