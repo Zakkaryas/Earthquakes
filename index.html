@@ -258,7 +258,7 @@
   // ============ CONFIGURA AQUÍ TU URL ============
   // Reemplaza esto por la URL "raw" de tu JSON en GitHub, por ejemplo:
   // https://raw.githubusercontent.com/tu-usuario/tu-repo/main/sismos.json
-  const JSON_URL = "https://raw.githubusercontent.com/Zakkaryas/Earthquakes/refs/heads/main/historial_sismos.json";
+  const JSON_URL = "REEMPLAZA_CON_TU_URL_RAW_DE_GITHUB.json";
   // =================================================
 
   function colorClase(mag){
@@ -353,18 +353,47 @@
   }
 
   async function cargarDatos(){
+    const estado = document.getElementById('estado');
     try{
-      const res = await fetch(JSON_URL, { cache: "no-store" });
-      if(!res.ok) throw new Error("No se pudo cargar el JSON (" + res.status + ")");
-      const data = await res.json();
+      if(!JSON_URL || JSON_URL.includes("REEMPLAZA_CON_TU_URL")){
+        throw new Error("Falta configurar JSON_URL en el script (todavía tiene el texto de ejemplo).");
+      }
 
-      document.getElementById('estado').style.display = "none";
+      const res = await fetch(JSON_URL, { cache: "no-store" });
+      if(!res.ok) throw new Error("El servidor respondió " + res.status + " — revisa que la URL y la rama sean correctas.");
+
+      let raw;
+      try{
+        raw = await res.json();
+      }catch(parseErr){
+        throw new Error("La respuesta no es un JSON válido. Verifica que la URL apunte al archivo raw (raw.githubusercontent.com) y no a la página de GitHub.");
+      }
+
+      // El archivo puede ser un único objeto, o (como en este caso) un array
+      // con el historial de consultas diarias. Si es un array, tomamos la
+      // entrada más reciente según fecha_consulta.
+      let data;
+      if(Array.isArray(raw)){
+        if(raw.length === 0) throw new Error("El JSON es un array vacío, todavía no hay consultas registradas.");
+        data = [...raw].sort((a,b) => new Date(b.fecha_consulta) - new Date(a.fecha_consulta))[0];
+      } else {
+        data = raw;
+      }
+
+      if(!data.sismos || !Array.isArray(data.sismos) || data.sismos.length === 0){
+        throw new Error("El JSON se cargó pero no contiene sismos (campo 'sismos' vacío o ausente).");
+      }
+
       renderStats(data);
       dibujarTrazo(data.sismos);
       renderLista(data.sismos);
       renderMapa(data.sismos);
+      estado.style.display = "none";
     }catch(err){
-      document.getElementById('estado').textContent = "Error al cargar los datos: " + err.message;
+      estado.style.display = "block";
+      estado.style.color = "#E85D4C";
+      estado.textContent = "⚠ " + err.message;
+      console.error("Error cargando datos sísmicos:", err);
     }
   }
 
