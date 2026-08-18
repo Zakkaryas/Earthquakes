@@ -29655,5 +29655,193 @@
                 "profundidad_km": 12.82
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-08-18 07:34:37",
+        "periodo_desde": "2026-08-17 19:44:21",
+        "periodo_hasta": "2026-08-18 07:34:37",
+        "total_sismos_nuevos": 20,
+        "sismos": [
+            {
+                "id": "us6000tll0",
+                "magnitud": 4.3,
+                "lugar": "241 km S of Sanana, Indonesia",
+                "fecha_evento": "2026-08-18 06:45:39",
+                "latitud": -4.243,
+                "longitud": 125.9428,
+                "profundidad_km": 381.022
+            },
+            {
+                "id": "us6000tlkr",
+                "magnitud": 2.5,
+                "lugar": "23 km W of Pueblitos, New Mexico",
+                "fecha_evento": "2026-08-18 06:03:30",
+                "latitud": 34.5876,
+                "longitud": -107.0349,
+                "profundidad_km": 4.921
+            },
+            {
+                "id": "us6000tlkt",
+                "magnitud": 5.6,
+                "lugar": "154 km SSE of Teluk Dalam, Indonesia",
+                "fecha_evento": "2026-08-18 06:02:20",
+                "latitud": -0.6858,
+                "longitud": 98.416,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000tlkl",
+                "magnitud": 5.7,
+                "lugar": "95 km SW of Puerto Madero, Mexico",
+                "fecha_evento": "2026-08-18 05:02:32",
+                "latitud": 14.2298,
+                "longitud": -93.1475,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000tlkf",
+                "magnitud": 3.1,
+                "lugar": "15 km WSW of Pueblitos, New Mexico",
+                "fecha_evento": "2026-08-18 03:40:13",
+                "latitud": 34.5679,
+                "longitud": -106.9376,
+                "profundidad_km": 5
+            },
+            {
+                "id": "us6000tlkd",
+                "magnitud": 2.8,
+                "lugar": "48 km ENE of Miches, Dominican Republic",
+                "fecha_evento": "2026-08-18 03:33:08",
+                "latitud": 19.2141,
+                "longitud": -68.6594,
+                "profundidad_km": 35
+            },
+            {
+                "id": "us6000tlk5",
+                "magnitud": 4.8,
+                "lugar": "46 km NNW of Ruteng, Indonesia",
+                "fecha_evento": "2026-08-18 02:42:38",
+                "latitud": -8.2434,
+                "longitud": 120.2573,
+                "profundidad_km": 34.063
+            },
+            {
+                "id": "aka2026qhebzw",
+                "magnitud": 2.8,
+                "lugar": "99 km W of Anaktuvuk Pass, Alaska",
+                "fecha_evento": "2026-08-18 02:31:40",
+                "latitud": 68.044,
+                "longitud": -154.122,
+                "profundidad_km": 0.4
+            },
+            {
+                "id": "aka2026qhcyts",
+                "magnitud": 3,
+                "lugar": "67 km NNW of Venetie, Alaska",
+                "fecha_evento": "2026-08-18 01:58:23",
+                "latitud": 67.574,
+                "longitud": -147.003,
+                "profundidad_km": 3.4
+            },
+            {
+                "id": "pr71528848",
+                "magnitud": 3.42,
+                "lugar": "110 km N of Suárez, Puerto Rico",
+                "fecha_evento": "2026-08-18 01:32:58",
+                "latitud": 19.417,
+                "longitud": -65.7171666666667,
+                "profundidad_km": 45.06
+            },
+            {
+                "id": "us6000tljs",
+                "magnitud": 4.8,
+                "lugar": "south of the Fiji Islands",
+                "fecha_evento": "2026-08-18 01:10:03",
+                "latitud": -22.0411,
+                "longitud": -179.0793,
+                "profundidad_km": 576.355
+            },
+            {
+                "id": "aka2026qhapjq",
+                "magnitud": 3,
+                "lugar": "278 km ESE of Attu Station, Alaska",
+                "fecha_evento": "2026-08-18 00:47:16",
+                "latitud": 51.828,
+                "longitud": 176.927,
+                "profundidad_km": 3.3
+            },
+            {
+                "id": "aka2026qhabax",
+                "magnitud": 2.7,
+                "lugar": "110 km SSE of False Pass, Alaska",
+                "fecha_evento": "2026-08-18 00:31:05",
+                "latitud": 54.001,
+                "longitud": -162.548,
+                "profundidad_km": 10.5
+            },
+            {
+                "id": "us6000tlgm",
+                "magnitud": 5.3,
+                "lugar": "24 km ENE of Colonia, Micronesia",
+                "fecha_evento": "2026-08-17 22:53:11",
+                "latitud": 9.638,
+                "longitud": 138.3106,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026qgwiqw",
+                "magnitud": 2.5,
+                "lugar": "118 km SE of Akutan, Alaska",
+                "fecha_evento": "2026-08-17 22:39:42",
+                "latitud": 53.423,
+                "longitud": -164.443,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026qgwerx",
+                "magnitud": 3,
+                "lugar": "11 km WSW of Venetie, Alaska",
+                "fecha_evento": "2026-08-17 22:35:16",
+                "latitud": 66.967,
+                "longitud": -146.648,
+                "profundidad_km": 13
+            },
+            {
+                "id": "nc75420282",
+                "magnitud": 3.17,
+                "lugar": "49 km W of Petrolia, CA",
+                "fecha_evento": "2026-08-17 22:13:10",
+                "latitud": 40.3349990844727,
+                "longitud": -124.85717010498,
+                "profundidad_km": 14.6700000762939
+            },
+            {
+                "id": "us6000tlbz",
+                "magnitud": 5.1,
+                "lugar": "Kuril Islands",
+                "fecha_evento": "2026-08-17 21:36:36",
+                "latitud": 46.4392,
+                "longitud": 151.4468,
+                "profundidad_km": 93.538
+            },
+            {
+                "id": "aka2026qgsene",
+                "magnitud": 4.5,
+                "lugar": "41 km SW of Karluk, Alaska",
+                "fecha_evento": "2026-08-17 20:35:10",
+                "latitud": 57.279,
+                "longitud": -154.894,
+                "profundidad_km": 57.9
+            },
+            {
+                "id": "usd0015efp",
+                "magnitud": 4.8,
+                "lugar": "219 km WSW of Longyearbyen, Svalbard and Jan Mayen",
+                "fecha_evento": "2026-08-17 19:51:23",
+                "latitud": 77.5754,
+                "longitud": 6.791,
+                "profundidad_km": 10
+            }
+        ]
     }
 ]
