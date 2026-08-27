@@ -33659,5 +33659,76 @@
                 "profundidad_km": 6.16
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-08-27 18:03:41",
+        "periodo_desde": "2026-08-27 12:08:40",
+        "periodo_hasta": "2026-08-27 18:03:41",
+        "total_sismos_nuevos": 7,
+        "sismos": [
+            {
+                "id": "us7000tcc0",
+                "magnitud": 4.1,
+                "lugar": "14 km NNE of Machala, Ecuador",
+                "fecha_evento": "2026-08-27 17:23:23",
+                "latitud": -3.1421,
+                "longitud": -79.8986,
+                "profundidad_km": 47.59
+            },
+            {
+                "id": "us7000tcbz",
+                "magnitud": 4.1,
+                "lugar": "29 km NW of Tumbes, Peru",
+                "fecha_evento": "2026-08-27 17:09:28",
+                "latitud": -3.3927,
+                "longitud": -80.6517,
+                "profundidad_km": 38.443
+            },
+            {
+                "id": "aka2026qyxkno",
+                "magnitud": 2.6,
+                "lugar": "3 km N of Sterling, Alaska",
+                "fecha_evento": "2026-08-27 17:05:33",
+                "latitud": 60.573,
+                "longitud": -150.763,
+                "profundidad_km": 52.4
+            },
+            {
+                "id": "us7000tca4",
+                "magnitud": 3.5,
+                "lugar": "10 km NW of Mérida, Venezuela",
+                "fecha_evento": "2026-08-27 15:36:05",
+                "latitud": 8.6667,
+                "longitud": -71.214,
+                "profundidad_km": 10
+            },
+            {
+                "id": "tx2026qwahjm",
+                "magnitud": 2.8,
+                "lugar": "16 km NW of Mentone, Texas",
+                "fecha_evento": "2026-08-27 14:48:52",
+                "latitud": 31.794,
+                "longitud": -103.737,
+                "profundidad_km": 9.1376
+            },
+            {
+                "id": "us7000tc9m",
+                "magnitud": 5,
+                "lugar": "western Xizang",
+                "fecha_evento": "2026-08-27 14:45:48",
+                "latitud": 33.2423,
+                "longitud": 86.9395,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tc9g",
+                "magnitud": 4.8,
+                "lugar": "195 km SE of Akutan, Alaska",
+                "fecha_evento": "2026-08-27 14:30:20",
+                "latitud": 53.0654,
+                "longitud": -163.4304,
+                "profundidad_km": 10
+            }
+        ]
     }
 ]
