@@ -33945,5 +33945,157 @@
                 "profundidad_km": 5
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-08-28 19:13:10",
+        "periodo_desde": "2026-08-28 08:18:04",
+        "periodo_hasta": "2026-08-28 19:13:10",
+        "total_sismos_nuevos": 16,
+        "sismos": [
+            {
+                "id": "us7000tcn8",
+                "magnitud": 4.4,
+                "lugar": "59 km E of Pondaguitan, Philippines",
+                "fecha_evento": "2026-08-28 17:41:50",
+                "latitud": 6.4352,
+                "longitud": 126.7143,
+                "profundidad_km": 118.362
+            },
+            {
+                "id": "nc75426327",
+                "magnitud": 2.68,
+                "lugar": "22 km SE of Yosemite Valley, CA",
+                "fecha_evento": "2026-08-28 14:51:34",
+                "latitud": 37.5839996337891,
+                "longitud": -119.422500610352,
+                "profundidad_km": 9.80000019073486
+            },
+            {
+                "id": "us7000tck0",
+                "magnitud": 4.4,
+                "lugar": "18 km ENE of Kuji, Japan",
+                "fecha_evento": "2026-08-28 14:31:46",
+                "latitud": 40.2476,
+                "longitud": 141.9657,
+                "profundidad_km": 67.134
+            },
+            {
+                "id": "pr71530188",
+                "magnitud": 2.91,
+                "lugar": "9 km NE of Charlotte Amalie, U.S. Virgin Islands",
+                "fecha_evento": "2026-08-28 14:26:08",
+                "latitud": 18.4013333333333,
+                "longitud": -64.8641666666667,
+                "profundidad_km": 55.32
+            },
+            {
+                "id": "us7000tcjv",
+                "magnitud": 4.6,
+                "lugar": "26 km W of Ollagüe, Chile",
+                "fecha_evento": "2026-08-28 14:11:54",
+                "latitud": -21.2109,
+                "longitud": -68.5089,
+                "profundidad_km": 131.354
+            },
+            {
+                "id": "us7000tcjf",
+                "magnitud": 4.5,
+                "lugar": "109 km S of Vanimo, Papua New Guinea",
+                "fecha_evento": "2026-08-28 12:21:36",
+                "latitud": -3.6651,
+                "longitud": 141.2038,
+                "profundidad_km": 10
+            },
+            {
+                "id": "nc75426292",
+                "magnitud": 2.69,
+                "lugar": "6 km NNW of Redwood Valley, CA",
+                "fecha_evento": "2026-08-28 12:15:25",
+                "latitud": 39.3171653747559,
+                "longitud": -123.217834472656,
+                "profundidad_km": 5.84000015258789
+            },
+            {
+                "id": "us7000tciy",
+                "magnitud": 4.4,
+                "lugar": "Fiji region",
+                "fecha_evento": "2026-08-28 10:38:33",
+                "latitud": -21.1233,
+                "longitud": -178.6454,
+                "profundidad_km": 535.422
+            },
+            {
+                "id": "pr71530163",
+                "magnitud": 2.58,
+                "lugar": "5 km N of Animas, Puerto Rico",
+                "fecha_evento": "2026-08-28 10:29:38",
+                "latitud": 18.4908333333333,
+                "longitud": -66.6331666666667,
+                "profundidad_km": 13.62
+            },
+            {
+                "id": "us7000tcj1",
+                "magnitud": 4.6,
+                "lugar": "176 km NNE of Lospalos, Timor Leste",
+                "fecha_evento": "2026-08-28 10:23:05",
+                "latitud": -6.9733,
+                "longitud": 127.3738,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tcit",
+                "magnitud": 4.5,
+                "lugar": "114 km N of Hirara, Japan",
+                "fecha_evento": "2026-08-28 10:11:33",
+                "latitud": 25.8399,
+                "longitud": 125.2609,
+                "profundidad_km": 131.746
+            },
+            {
+                "id": "tx2026qxmlhv",
+                "magnitud": 2.8,
+                "lugar": "56 km S of Whites City, New Mexico",
+                "fecha_evento": "2026-08-28 10:02:25",
+                "latitud": 31.667,
+                "longitud": -104.368,
+                "profundidad_km": 7.5354
+            },
+            {
+                "id": "uu80150926",
+                "magnitud": 2.98,
+                "lugar": "3 km NW of Little America, Wyoming",
+                "fecha_evento": "2026-08-28 09:27:59",
+                "latitud": 41.5596666666667,
+                "longitud": -109.888833333333,
+                "profundidad_km": -1.93
+            },
+            {
+                "id": "us7000tcii",
+                "magnitud": 5,
+                "lugar": "172 km SE of Petropavlovsk-Kamchatsky, Russia",
+                "fecha_evento": "2026-08-28 09:12:17",
+                "latitud": 52.1245,
+                "longitud": 160.6615,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tcig",
+                "magnitud": 5,
+                "lugar": "109 km WNW of Isangel, Vanuatu",
+                "fecha_evento": "2026-08-28 08:32:35",
+                "latitud": -19.2675,
+                "longitud": 168.2841,
+                "profundidad_km": 10
+            },
+            {
+                "id": "hv75025447",
+                "magnitud": 2.46,
+                "lugar": "108 km SSE of Leilani Estates, Hawaii",
+                "fecha_evento": "2026-08-28 08:20:57",
+                "latitud": 18.5906658172607,
+                "longitud": -154.471832275391,
+                "profundidad_km": 6.94999980926514
+            }
+        ]
     }
 ]
