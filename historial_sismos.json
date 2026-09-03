@@ -35649,5 +35649,292 @@
                 "profundidad_km": 5
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-09-03 11:54:15",
+        "periodo_desde": "2026-09-02 11:56:09",
+        "periodo_hasta": "2026-09-03 11:54:15",
+        "total_sismos_nuevos": 31,
+        "sismos": [
+            {
+                "id": "aka2026rlkqil",
+                "magnitud": 3.3,
+                "lugar": "48 km NE of Chase, Alaska",
+                "fecha_evento": "2026-09-03 11:38:02",
+                "latitud": 62.772,
+                "longitud": -149.476,
+                "profundidad_km": 72.1
+            },
+            {
+                "id": "us7000tdw2",
+                "magnitud": 4.8,
+                "lugar": "12 km E of Venustiano Carranza (Peña Blanca), Mexico",
+                "fecha_evento": "2026-09-03 11:33:52",
+                "latitud": 17.6542,
+                "longitud": -94.6336,
+                "profundidad_km": 158.984
+            },
+            {
+                "id": "aka2026rlkghr",
+                "magnitud": 3.8,
+                "lugar": "68 km NW of Chignik Lake, Alaska",
+                "fecha_evento": "2026-09-03 11:26:32",
+                "latitud": 56.684,
+                "longitud": -159.553,
+                "profundidad_km": 196.4
+            },
+            {
+                "id": "us7000tdvt",
+                "magnitud": 6.3,
+                "lugar": "84 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 11:17:24",
+                "latitud": 52.2579,
+                "longitud": -169.4088,
+                "profundidad_km": 35
+            },
+            {
+                "id": "aka2026rlindp",
+                "magnitud": 2.5,
+                "lugar": "34 km WNW of Ninilchik, Alaska",
+                "fecha_evento": "2026-09-03 10:34:13",
+                "latitud": 60.124,
+                "longitud": -152.273,
+                "profundidad_km": 90.5
+            },
+            {
+                "id": "us7000tdv4",
+                "magnitud": 5.1,
+                "lugar": "115 km NE of Joshīmath, India",
+                "fecha_evento": "2026-09-03 08:16:36",
+                "latitud": 31.3618,
+                "longitud": 80.33,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tdv1",
+                "magnitud": 4.5,
+                "lugar": "122 km WNW of Houma, Tonga",
+                "fecha_evento": "2026-09-03 07:46:19",
+                "latitud": -20.7887,
+                "longitud": -176.4067,
+                "profundidad_km": 217.976
+            },
+            {
+                "id": "hv75028562",
+                "magnitud": 2.7,
+                "lugar": "3 km SW of Pāhala, Hawaii",
+                "fecha_evento": "2026-09-03 06:42:57",
+                "latitud": 19.1805000305176,
+                "longitud": -155.496826171875,
+                "profundidad_km": 29.4099998474121
+            },
+            {
+                "id": "hv75028557",
+                "magnitud": 2.8,
+                "lugar": "2 km W of Pāhala, Hawaii",
+                "fecha_evento": "2026-09-03 06:22:58",
+                "latitud": 19.2016658782959,
+                "longitud": -155.501663208008,
+                "profundidad_km": 29.1700000762939
+            },
+            {
+                "id": "us7000tduc",
+                "magnitud": 5.1,
+                "lugar": "42 km NW of Coquimbo, Chile",
+                "fecha_evento": "2026-09-03 06:04:02",
+                "latitud": -29.7346,
+                "longitud": -71.6979,
+                "profundidad_km": 55.164
+            },
+            {
+                "id": "us7000tdua",
+                "magnitud": 4.4,
+                "lugar": "22 km SSW of San Pedro de Atacama, Chile",
+                "fecha_evento": "2026-09-03 05:52:15",
+                "latitud": -23.1019,
+                "longitud": -68.2614,
+                "profundidad_km": 145.014
+            },
+            {
+                "id": "us7000tdu1",
+                "magnitud": 4.5,
+                "lugar": "30 km S of Sipí, Colombia",
+                "fecha_evento": "2026-09-03 05:17:16",
+                "latitud": 4.3826,
+                "longitud": -76.6896,
+                "profundidad_km": 81.358
+            },
+            {
+                "id": "uu80153696",
+                "magnitud": 2.95,
+                "lugar": "1 km NNW of Little America, Wyoming",
+                "fecha_evento": "2026-09-03 04:32:33",
+                "latitud": 41.5593333333333,
+                "longitud": -109.869666666667,
+                "profundidad_km": -1.9
+            },
+            {
+                "id": "nn00924139",
+                "magnitud": 2.45,
+                "lugar": "30 km NNW of Dyer, Nevada",
+                "fecha_evento": "2026-09-03 04:31:51",
+                "latitud": 37.9311,
+                "longitud": -118.1541,
+                "profundidad_km": 10.0791
+            },
+            {
+                "id": "us7000tdtt",
+                "magnitud": 3.2,
+                "lugar": "196 km W of Port Orford, Oregon",
+                "fecha_evento": "2026-09-03 04:13:56",
+                "latitud": 43.0999,
+                "longitud": -126.8602,
+                "profundidad_km": 10
+            },
+            {
+                "id": "hv75028527",
+                "magnitud": 2.45,
+                "lugar": "10 km ENE of Pāhala, Hawaii",
+                "fecha_evento": "2026-09-03 03:04:10",
+                "latitud": 19.2508335113525,
+                "longitud": -155.39533996582,
+                "profundidad_km": 31.8199996948242
+            },
+            {
+                "id": "us7000tdt3",
+                "magnitud": 4.6,
+                "lugar": "285 km ENE of Levuka, Fiji",
+                "fecha_evento": "2026-09-03 00:09:28",
+                "latitud": -17.4745,
+                "longitud": -178.0581,
+                "profundidad_km": 581.432
+            },
+            {
+                "id": "us7000tdrv",
+                "magnitud": 6.2,
+                "lugar": "South Sandwich Islands region",
+                "fecha_evento": "2026-09-02 23:46:57",
+                "latitud": -56.2062,
+                "longitud": -27.9085,
+                "profundidad_km": 125.905
+            },
+            {
+                "id": "pr71530678",
+                "magnitud": 3.21,
+                "lugar": "89 km N of Cruz Bay, U.S. Virgin Islands",
+                "fecha_evento": "2026-09-02 22:40:17",
+                "latitud": 19.1393333333333,
+                "longitud": -64.729,
+                "profundidad_km": 27.58
+            },
+            {
+                "id": "us7000tdr1",
+                "magnitud": 5.4,
+                "lugar": "82 km S of Isangel, Vanuatu",
+                "fecha_evento": "2026-09-02 21:22:08",
+                "latitud": -20.279,
+                "longitud": 169.4012,
+                "profundidad_km": 93.091
+            },
+            {
+                "id": "us7000tdqc",
+                "magnitud": 5.4,
+                "lugar": "53 km W of Bulolo, Papua New Guinea",
+                "fecha_evento": "2026-09-02 20:04:33",
+                "latitud": -7.1815,
+                "longitud": 146.1539,
+                "profundidad_km": 65.164
+            },
+            {
+                "id": "aka2026rkeodu",
+                "magnitud": 3.4,
+                "lugar": "94 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-02 19:35:52",
+                "latitud": 52.123,
+                "longitud": -169.254,
+                "profundidad_km": 10.5
+            },
+            {
+                "id": "aka2026rkdvdo",
+                "magnitud": 2.9,
+                "lugar": "86 km W of Akhiok, Alaska",
+                "fecha_evento": "2026-09-02 19:13:54",
+                "latitud": 56.836,
+                "longitud": -155.583,
+                "profundidad_km": 59.6
+            },
+            {
+                "id": "aka2026rjzpcc",
+                "magnitud": 2.8,
+                "lugar": "128 km E of Chignik, Alaska",
+                "fecha_evento": "2026-09-02 17:06:57",
+                "latitud": 56.434,
+                "longitud": -156.344,
+                "profundidad_km": 26.9
+            },
+            {
+                "id": "us7000tdn6",
+                "magnitud": 4.9,
+                "lugar": "Volcano Islands, Japan region",
+                "fecha_evento": "2026-09-02 13:53:02",
+                "latitud": 22.8619,
+                "longitud": 144.06,
+                "profundidad_km": 38.413
+            },
+            {
+                "id": "us7000tdn2",
+                "magnitud": 4.3,
+                "lugar": "103 km WSW of Puerto Madero, Mexico",
+                "fecha_evento": "2026-09-02 13:43:18",
+                "latitud": 14.3184,
+                "longitud": -93.285,
+                "profundidad_km": 32.19
+            },
+            {
+                "id": "ci41540608",
+                "magnitud": 3.2,
+                "lugar": "6 km SE of Ontario, CA",
+                "fecha_evento": "2026-09-02 12:37:12",
+                "latitud": 34.0145,
+                "longitud": -117.589166666667,
+                "profundidad_km": 6.14
+            },
+            {
+                "id": "us7000tdms",
+                "magnitud": 5.9,
+                "lugar": "southern East Pacific Rise",
+                "fecha_evento": "2026-09-02 12:35:56",
+                "latitud": -34.9815,
+                "longitud": -109.0259,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tdmm",
+                "magnitud": 5.2,
+                "lugar": "78 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-02 12:32:01",
+                "latitud": 52.3538,
+                "longitud": -169.4988,
+                "profundidad_km": 35
+            },
+            {
+                "id": "us7000tdmp",
+                "magnitud": 5.6,
+                "lugar": "71 km WSW of Puerto Madero, Mexico",
+                "fecha_evento": "2026-09-02 12:28:31",
+                "latitud": 14.3909,
+                "longitud": -92.9873,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026rjqgna",
+                "magnitud": 2.8,
+                "lugar": "63 km SW of Karluk, Alaska",
+                "fecha_evento": "2026-09-02 12:27:09",
+                "latitud": 57.169,
+                "longitud": -155.219,
+                "profundidad_km": 56.8
+            }
+        ]
     }
 ]
