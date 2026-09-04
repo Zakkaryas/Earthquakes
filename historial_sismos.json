@@ -35936,5 +35936,949 @@
                 "profundidad_km": 56.8
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-09-04 11:57:05",
+        "periodo_desde": "2026-09-03 11:54:15",
+        "periodo_hasta": "2026-09-04 11:57:05",
+        "total_sismos_nuevos": 104,
+        "sismos": [
+            {
+                "id": "pr71530873",
+                "magnitud": 2.94,
+                "lugar": "3 km SSE of Magas Arriba, Puerto Rico",
+                "fecha_evento": "2026-09-04 10:58:08",
+                "latitud": 17.9886666666667,
+                "longitud": -66.7555,
+                "profundidad_km": 10.34
+            },
+            {
+                "id": "us7000te9b",
+                "magnitud": 3.7,
+                "lugar": "off the coast of Oregon",
+                "fecha_evento": "2026-09-04 09:25:32",
+                "latitud": 43.6383,
+                "longitud": -129.0824,
+                "profundidad_km": 10
+            },
+            {
+                "id": "ok2026ried",
+                "magnitud": 3.29,
+                "lugar": "2 km SSW of Dibble, Oklahoma",
+                "fecha_evento": "2026-09-04 09:17:00",
+                "latitud": 35.01333333,
+                "longitud": -97.63633333,
+                "profundidad_km": 10.24
+            },
+            {
+                "id": "pr71530848",
+                "magnitud": 3.23,
+                "lugar": "7 km ENE of Fajardo, Puerto Rico",
+                "fecha_evento": "2026-09-04 08:31:22",
+                "latitud": 18.3461666666667,
+                "longitud": -65.5816666666667,
+                "profundidad_km": 95.89
+            },
+            {
+                "id": "us7000te8r",
+                "magnitud": 5,
+                "lugar": "South Sandwich Islands region",
+                "fecha_evento": "2026-09-04 06:45:54",
+                "latitud": -56.1536,
+                "longitud": -26.1632,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000te82",
+                "magnitud": 5.2,
+                "lugar": "28 km S of Cilacap, Indonesia",
+                "fecha_evento": "2026-09-04 05:04:54",
+                "latitud": -7.9867,
+                "longitud": 109.0409,
+                "profundidad_km": 10
+            },
+            {
+                "id": "tx2026rjxsxm",
+                "magnitud": 3.1,
+                "lugar": "40 km NW of Toyah, Texas",
+                "fecha_evento": "2026-09-04 04:35:25",
+                "latitud": 31.542,
+                "longitud": -104.129,
+                "profundidad_km": 8.5095
+            },
+            {
+                "id": "us7000te7s",
+                "magnitud": 4.1,
+                "lugar": "101 km SSE of Sand Point, Alaska",
+                "fecha_evento": "2026-09-04 03:33:10",
+                "latitud": 54.5154,
+                "longitud": -159.815,
+                "profundidad_km": 35.625
+            },
+            {
+                "id": "us7000te7l",
+                "magnitud": 5,
+                "lugar": "236 km ESE of Attu Station, Alaska",
+                "fecha_evento": "2026-09-04 02:28:38",
+                "latitud": 51.9555,
+                "longitud": 176.3482,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000te7h",
+                "magnitud": 3.8,
+                "lugar": "100 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 02:06:58",
+                "latitud": 52.0842,
+                "longitud": -169.3462,
+                "profundidad_km": 35.755
+            },
+            {
+                "id": "aka2026rmnjdn",
+                "magnitud": 2.8,
+                "lugar": "102 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 01:59:08",
+                "latitud": 52.042,
+                "longitud": -169.214,
+                "profundidad_km": 13.7
+            },
+            {
+                "id": "aka2026rmnbri",
+                "magnitud": 3.9,
+                "lugar": "111 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 01:50:33",
+                "latitud": 51.971,
+                "longitud": -169.279,
+                "profundidad_km": 14.1
+            },
+            {
+                "id": "aka2026rmnbff",
+                "magnitud": 2.8,
+                "lugar": "106 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 01:49:58",
+                "latitud": 51.996,
+                "longitud": -169.107,
+                "profundidad_km": 0.2
+            },
+            {
+                "id": "aka2026rmmzef",
+                "magnitud": 3.5,
+                "lugar": "107 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 01:47:38",
+                "latitud": 52.016,
+                "longitud": -169.343,
+                "profundidad_km": 18.4
+            },
+            {
+                "id": "aka2026rmmqtp",
+                "magnitud": 3.2,
+                "lugar": "113 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 01:38:00",
+                "latitud": 51.961,
+                "longitud": -169.311,
+                "profundidad_km": 19.9
+            },
+            {
+                "id": "aka2026rmmjmj",
+                "magnitud": 2.9,
+                "lugar": "107 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 01:29:34",
+                "latitud": 51.988,
+                "longitud": -169.125,
+                "profundidad_km": 7
+            },
+            {
+                "id": "aka2026rmmigw",
+                "magnitud": 3.1,
+                "lugar": "48 km NW of Nelson Lagoon, Alaska",
+                "fecha_evento": "2026-09-04 01:27:46",
+                "latitud": 56.273,
+                "longitud": -161.825,
+                "profundidad_km": 216.7
+            },
+            {
+                "id": "aka2026rmlxkt",
+                "magnitud": 3,
+                "lugar": "90 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 01:15:33",
+                "latitud": 52.136,
+                "longitud": -169.061,
+                "profundidad_km": 4.4
+            },
+            {
+                "id": "aka2026rmkemu",
+                "magnitud": 2.9,
+                "lugar": "102 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 00:23:46",
+                "latitud": 52.063,
+                "longitud": -169.322,
+                "profundidad_km": 24.6
+            },
+            {
+                "id": "aka2026rmjlix",
+                "magnitud": 2.8,
+                "lugar": "100 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-04 00:01:44",
+                "latitud": 52.065,
+                "longitud": -169.208,
+                "profundidad_km": 16.8
+            },
+            {
+                "id": "aka2026rmibwz",
+                "magnitud": 3.4,
+                "lugar": "57 km W of Anchor Point, Alaska",
+                "fecha_evento": "2026-09-03 23:21:30",
+                "latitud": 59.775,
+                "longitud": -152.86,
+                "profundidad_km": 112.1
+            },
+            {
+                "id": "aka2026rmhuvl",
+                "magnitud": 3,
+                "lugar": "103 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 23:12:40",
+                "latitud": 52.04,
+                "longitud": -169.262,
+                "profundidad_km": 13.1
+            },
+            {
+                "id": "tx2026rjmsif",
+                "magnitud": 2.7,
+                "lugar": "60 km S of Whites City, New Mexico",
+                "fecha_evento": "2026-09-03 23:02:00",
+                "latitud": 31.627,
+                "longitud": -104.412,
+                "profundidad_km": 3.8171
+            },
+            {
+                "id": "aka2026rmheuj",
+                "magnitud": 3.4,
+                "lugar": "98 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 22:54:20",
+                "latitud": 52.111,
+                "longitud": -169.376,
+                "profundidad_km": 16.7
+            },
+            {
+                "id": "aka2026rmguki",
+                "magnitud": 3.5,
+                "lugar": "87 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 22:42:16",
+                "latitud": 52.186,
+                "longitud": -169.226,
+                "profundidad_km": 12.5
+            },
+            {
+                "id": "hv75028917",
+                "magnitud": 3.41,
+                "lugar": "19 km SE of Pāhala, Hawaii",
+                "fecha_evento": "2026-09-03 22:39:02",
+                "latitud": 19.066,
+                "longitud": -155.359,
+                "profundidad_km": 31.91
+            },
+            {
+                "id": "aka2026rmfkld",
+                "magnitud": 2.6,
+                "lugar": "149 km ESE of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 22:00:48",
+                "latitud": 52.495,
+                "longitud": -166.772,
+                "profundidad_km": 9.6
+            },
+            {
+                "id": "us7000te5t",
+                "magnitud": 4.3,
+                "lugar": "39 km ESE of Farkhār, Afghanistan",
+                "fecha_evento": "2026-09-03 21:58:46",
+                "latitud": 36.4686,
+                "longitud": 70.277,
+                "profundidad_km": 209.876
+            },
+            {
+                "id": "pr71530758",
+                "magnitud": 3.19,
+                "lugar": "8 km WNW of Maricao, Puerto Rico",
+                "fecha_evento": "2026-09-03 21:21:33",
+                "latitud": 18.1986666666667,
+                "longitud": -67.0575,
+                "profundidad_km": 126.27
+            },
+            {
+                "id": "us7000te5e",
+                "magnitud": 4.8,
+                "lugar": "29 km WSW of Salamanca, Chile",
+                "fecha_evento": "2026-09-03 21:18:21",
+                "latitud": -31.8967,
+                "longitud": -71.2399,
+                "profundidad_km": 81.851
+            },
+            {
+                "id": "pr71530753",
+                "magnitud": 3,
+                "lugar": "28 km SSW of Charlotte Amalie, U.S. Virgin Islands",
+                "fecha_evento": "2026-09-03 21:07:04",
+                "latitud": 18.0925,
+                "longitud": -64.9845,
+                "profundidad_km": 14.14
+            },
+            {
+                "id": "us7000te55",
+                "magnitud": 4.9,
+                "lugar": "98 km W of Gorontalo, Indonesia",
+                "fecha_evento": "2026-09-03 21:05:15",
+                "latitud": 0.5261,
+                "longitud": 122.1776,
+                "profundidad_km": 111.177
+            },
+            {
+                "id": "us7000te51",
+                "magnitud": 4.8,
+                "lugar": "57 km N of Ende, Indonesia",
+                "fecha_evento": "2026-09-03 21:00:10",
+                "latitud": -8.3207,
+                "longitud": 121.6664,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026rmdhbb",
+                "magnitud": 2.8,
+                "lugar": "79 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 20:56:51",
+                "latitud": 52.252,
+                "longitud": -169.207,
+                "profundidad_km": 11.8
+            },
+            {
+                "id": "aka2026rmddwt",
+                "magnitud": 2.8,
+                "lugar": "90 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 20:53:18",
+                "latitud": 52.15,
+                "longitud": -169.196,
+                "profundidad_km": 14.4
+            },
+            {
+                "id": "us7000te4t",
+                "magnitud": 4.2,
+                "lugar": "88 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 20:40:07",
+                "latitud": 52.2355,
+                "longitud": -169.4752,
+                "profundidad_km": 35
+            },
+            {
+                "id": "aka2026rmcldd",
+                "magnitud": 3.4,
+                "lugar": "84 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 20:31:31",
+                "latitud": 52.203,
+                "longitud": -169.189,
+                "profundidad_km": 9.2
+            },
+            {
+                "id": "us7000te4b",
+                "magnitud": 5.5,
+                "lugar": "100 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 20:21:15",
+                "latitud": 52.0506,
+                "longitud": -169.1387,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026rmbwsi",
+                "magnitud": 3.9,
+                "lugar": "89 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 20:14:56",
+                "latitud": 52.167,
+                "longitud": -169.239,
+                "profundidad_km": 14.2
+            },
+            {
+                "id": "aka2026rmbrgz",
+                "magnitud": 3.1,
+                "lugar": "93 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 20:08:38",
+                "latitud": 52.143,
+                "longitud": -169.309,
+                "profundidad_km": 25
+            },
+            {
+                "id": "aka2026rmaund",
+                "magnitud": 2.8,
+                "lugar": "119 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 19:42:29",
+                "latitud": 51.888,
+                "longitud": -169.221,
+                "profundidad_km": 7.5
+            },
+            {
+                "id": "aka2026rmahsg",
+                "magnitud": 4.2,
+                "lugar": "75 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 19:27:41",
+                "latitud": 52.319,
+                "longitud": -169.3,
+                "profundidad_km": 15.5
+            },
+            {
+                "id": "aka2026rmafsx",
+                "magnitud": 3.3,
+                "lugar": "102 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 19:25:23",
+                "latitud": 52.029,
+                "longitud": -169.11,
+                "profundidad_km": 9.5
+            },
+            {
+                "id": "aka2026rmadmx",
+                "magnitud": 2.8,
+                "lugar": "106 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 19:22:51",
+                "latitud": 52.004,
+                "longitud": -169.195,
+                "profundidad_km": 10.9
+            },
+            {
+                "id": "aka2026rlzybf",
+                "magnitud": 3.3,
+                "lugar": "106 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 19:16:36",
+                "latitud": 51.998,
+                "longitud": -169.175,
+                "profundidad_km": 13.7
+            },
+            {
+                "id": "aka2026rlzprc",
+                "magnitud": 2.7,
+                "lugar": "89 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 19:06:53",
+                "latitud": 52.142,
+                "longitud": -169.052,
+                "profundidad_km": 7.4
+            },
+            {
+                "id": "aka2026rlzhhg",
+                "magnitud": 3.4,
+                "lugar": "90 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 18:57:08",
+                "latitud": 52.153,
+                "longitud": -169.217,
+                "profundidad_km": 18.4
+            },
+            {
+                "id": "aka2026rlzdse",
+                "magnitud": 3,
+                "lugar": "77 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 18:53:11",
+                "latitud": 52.258,
+                "longitud": -169.066,
+                "profundidad_km": 9.1
+            },
+            {
+                "id": "aka2026rlzafv",
+                "magnitud": 3.4,
+                "lugar": "64 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 18:49:09",
+                "latitud": 52.43,
+                "longitud": -169.327,
+                "profundidad_km": 29.6
+            },
+            {
+                "id": "us7000te2m",
+                "magnitud": 5.3,
+                "lugar": "104 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 18:45:39",
+                "latitud": 52.0304,
+                "longitud": -169.2217,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026rlyuvd",
+                "magnitud": 2.8,
+                "lugar": "94 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 18:42:40",
+                "latitud": 52.106,
+                "longitud": -169.155,
+                "profundidad_km": 7.1
+            },
+            {
+                "id": "aka2026rlysga",
+                "magnitud": 2.8,
+                "lugar": "69 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 18:39:49",
+                "latitud": 52.357,
+                "longitud": -169.224,
+                "profundidad_km": 22.2
+            },
+            {
+                "id": "us7000te2u",
+                "magnitud": 3.6,
+                "lugar": "93 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 18:33:56",
+                "latitud": 52.1488,
+                "longitud": -169.3136,
+                "profundidad_km": 24.989
+            },
+            {
+                "id": "us7000te2i",
+                "magnitud": 5,
+                "lugar": "Fiji region",
+                "fecha_evento": "2026-09-03 18:31:04",
+                "latitud": -18.7662,
+                "longitud": -177.4572,
+                "profundidad_km": 619.049
+            },
+            {
+                "id": "aka2026rlxsfg",
+                "magnitud": 2.6,
+                "lugar": "94 km SSE of Akutan, Alaska",
+                "fecha_evento": "2026-09-03 18:09:53",
+                "latitud": 53.422,
+                "longitud": -165.001,
+                "profundidad_km": 6.9
+            },
+            {
+                "id": "aka2026rlxqkb",
+                "magnitud": 2.7,
+                "lugar": "89 km WNW of Lake Louise, Alaska",
+                "fecha_evento": "2026-09-03 18:07:45",
+                "latitud": 62.605,
+                "longitud": -148.134,
+                "profundidad_km": 14.1
+            },
+            {
+                "id": "uu80153911",
+                "magnitud": 2.52,
+                "lugar": "17 km NE of Milford, Utah",
+                "fecha_evento": "2026-09-03 18:07:08",
+                "latitud": 38.5248333333333,
+                "longitud": -112.898166666667,
+                "profundidad_km": 1.36
+            },
+            {
+                "id": "aka2026rlxjqf",
+                "magnitud": 2.8,
+                "lugar": "90 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 17:59:58",
+                "latitud": 52.155,
+                "longitud": -169.218,
+                "profundidad_km": 10.8
+            },
+            {
+                "id": "aka2026rlwtdf",
+                "magnitud": 3.2,
+                "lugar": "95 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 17:40:55",
+                "latitud": 52.13,
+                "longitud": -169.349,
+                "profundidad_km": 32.2
+            },
+            {
+                "id": "us7000te2d",
+                "magnitud": 4.1,
+                "lugar": "231 km ESE of Attu Station, Alaska",
+                "fecha_evento": "2026-09-03 17:40:07",
+                "latitud": 52.0982,
+                "longitud": 176.3604,
+                "profundidad_km": 19.2
+            },
+            {
+                "id": "nc75429272",
+                "magnitud": 3.34,
+                "lugar": "3 km ESE of Larkfield-Wikiup, CA",
+                "fecha_evento": "2026-09-03 17:33:27",
+                "latitud": 38.501,
+                "longitud": -122.715,
+                "profundidad_km": 8.84
+            },
+            {
+                "id": "aka2026rlwaom",
+                "magnitud": 2.8,
+                "lugar": "108 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 17:19:27",
+                "latitud": 51.999,
+                "longitud": -169.261,
+                "profundidad_km": 23.3
+            },
+            {
+                "id": "us7000te21",
+                "magnitud": 5.2,
+                "lugar": "271 km SSE of Dunhuang, China",
+                "fecha_evento": "2026-09-03 17:04:40",
+                "latitud": 37.7963,
+                "longitud": 95.4671,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000te20",
+                "magnitud": 4.5,
+                "lugar": "11 km N of Jordán, Colombia",
+                "fecha_evento": "2026-09-03 16:58:46",
+                "latitud": 6.8385,
+                "longitud": -73.0977,
+                "profundidad_km": 144.678
+            },
+            {
+                "id": "nc75429247",
+                "magnitud": 2.78,
+                "lugar": "15 km SE of Petrolia, CA",
+                "fecha_evento": "2026-09-03 16:54:30",
+                "latitud": 40.2241668701172,
+                "longitud": -124.175163269043,
+                "profundidad_km": 11.3100004196167
+            },
+            {
+                "id": "aka2026rlveoa",
+                "magnitud": 3.1,
+                "lugar": "93 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 16:54:00",
+                "latitud": 52.131,
+                "longitud": -169.252,
+                "profundidad_km": 12.5
+            },
+            {
+                "id": "aka2026rlvdbh",
+                "magnitud": 3.2,
+                "lugar": "106 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 16:52:15",
+                "latitud": 52.006,
+                "longitud": -169.237,
+                "profundidad_km": 15.1
+            },
+            {
+                "id": "aka2026rluxvz",
+                "magnitud": 2.9,
+                "lugar": "94 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 16:46:27",
+                "latitud": 52.132,
+                "longitud": -169.287,
+                "profundidad_km": 12.5
+            },
+            {
+                "id": "aka2026rlukus",
+                "magnitud": 2.6,
+                "lugar": "71 km SSE of Sand Point, Alaska",
+                "fecha_evento": "2026-09-03 16:31:22",
+                "latitud": 54.759,
+                "longitud": -160.002,
+                "profundidad_km": 18.7
+            },
+            {
+                "id": "us7000te1q",
+                "magnitud": 4.3,
+                "lugar": "65 km SW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 16:30:30",
+                "latitud": 52.5045,
+                "longitud": -169.5156,
+                "profundidad_km": 52.603
+            },
+            {
+                "id": "aka2026rluipx",
+                "magnitud": 3.6,
+                "lugar": "106 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 16:28:53",
+                "latitud": 51.979,
+                "longitud": -168.907,
+                "profundidad_km": 6.5
+            },
+            {
+                "id": "aka2026rltxgz",
+                "magnitud": 3,
+                "lugar": "99 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 16:15:48",
+                "latitud": 52.083,
+                "longitud": -169.274,
+                "profundidad_km": 10.7
+            },
+            {
+                "id": "us7000te09",
+                "magnitud": 4.8,
+                "lugar": "81 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 16:11:25",
+                "latitud": 52.2887,
+                "longitud": -169.4187,
+                "profundidad_km": 35
+            },
+            {
+                "id": "aka2026rltrbh",
+                "magnitud": 2.8,
+                "lugar": "77 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 16:08:28",
+                "latitud": 52.271,
+                "longitud": -169.163,
+                "profundidad_km": 10.4
+            },
+            {
+                "id": "aka2026rltnuv",
+                "magnitud": 2.7,
+                "lugar": "83 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 16:04:51",
+                "latitud": 52.255,
+                "longitud": -169.357,
+                "profundidad_km": 16.5
+            },
+            {
+                "id": "aka2026rltdhg",
+                "magnitud": 2.8,
+                "lugar": "100 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 15:52:36",
+                "latitud": 52.038,
+                "longitud": -168.957,
+                "profundidad_km": 1.4
+            },
+            {
+                "id": "us7000te02",
+                "magnitud": 4.5,
+                "lugar": "78 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 15:42:01",
+                "latitud": 52.2839,
+                "longitud": -169.2869,
+                "profundidad_km": 35
+            },
+            {
+                "id": "aka2026rlseop",
+                "magnitud": 2.8,
+                "lugar": "77 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 15:24:11",
+                "latitud": 52.244,
+                "longitud": -168.979,
+                "profundidad_km": 3.8
+            },
+            {
+                "id": "aka2026rlrgpc",
+                "magnitud": 2.9,
+                "lugar": "91 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 14:56:26",
+                "latitud": 52.131,
+                "longitud": -169.141,
+                "profundidad_km": 3
+            },
+            {
+                "id": "us7000tdzu",
+                "magnitud": 4.2,
+                "lugar": "74 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 14:39:36",
+                "latitud": 52.3837,
+                "longitud": -169.4746,
+                "profundidad_km": 35
+            },
+            {
+                "id": "aka2026rlqpjd",
+                "magnitud": 2.8,
+                "lugar": "100 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 14:36:30",
+                "latitud": 52.085,
+                "longitud": -169.356,
+                "profundidad_km": 20.1
+            },
+            {
+                "id": "us7000tdzr",
+                "magnitud": 4.1,
+                "lugar": "82 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 14:27:36",
+                "latitud": 52.3,
+                "longitud": -169.488,
+                "profundidad_km": 35
+            },
+            {
+                "id": "aka2026rlpyzj",
+                "magnitud": 3.4,
+                "lugar": "95 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 14:17:44",
+                "latitud": 52.126,
+                "longitud": -169.317,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tdzn",
+                "magnitud": 4.4,
+                "lugar": "136 km NNE of Tobelo, Indonesia",
+                "fecha_evento": "2026-09-03 14:15:43",
+                "latitud": 2.7883,
+                "longitud": 128.6396,
+                "profundidad_km": 100.333
+            },
+            {
+                "id": "aka2026rlpxhx",
+                "magnitud": 3,
+                "lugar": "83 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 14:15:42",
+                "latitud": 52.224,
+                "longitud": -169.219,
+                "profundidad_km": 7.3
+            },
+            {
+                "id": "us7000tdzk",
+                "magnitud": 5.1,
+                "lugar": "Owen Fracture Zone region",
+                "fecha_evento": "2026-09-03 14:11:31",
+                "latitud": 14.4605,
+                "longitud": 56.4505,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026rlprmy",
+                "magnitud": 2.8,
+                "lugar": "74 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 14:09:00",
+                "latitud": 52.279,
+                "longitud": -169.085,
+                "profundidad_km": 16.6
+            },
+            {
+                "id": "aka2026rlppmp",
+                "magnitud": 3.2,
+                "lugar": "85 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 14:06:50",
+                "latitud": 52.18,
+                "longitud": -169.09,
+                "profundidad_km": 9.7
+            },
+            {
+                "id": "aka2026rlplvh",
+                "magnitud": 2.9,
+                "lugar": "89 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 14:02:35",
+                "latitud": 52.175,
+                "longitud": -169.275,
+                "profundidad_km": 11.7
+            },
+            {
+                "id": "aka2026rlpgrs",
+                "magnitud": 2.9,
+                "lugar": "73 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 13:56:43",
+                "latitud": 52.293,
+                "longitud": -169.117,
+                "profundidad_km": 18.6
+            },
+            {
+                "id": "us7000tdz8",
+                "magnitud": 4.8,
+                "lugar": "65 km S of Isangel, Vanuatu",
+                "fecha_evento": "2026-09-03 13:47:10",
+                "latitud": -20.1366,
+                "longitud": 169.3059,
+                "profundidad_km": 112.706
+            },
+            {
+                "id": "us7000tdzf",
+                "magnitud": 3.4,
+                "lugar": "92 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 13:40:52",
+                "latitud": 52.1248,
+                "longitud": -169.1272,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026rlomui",
+                "magnitud": 2.9,
+                "lugar": "87 km S of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 13:34:35",
+                "latitud": 52.164,
+                "longitud": -169.067,
+                "profundidad_km": 7.2
+            },
+            {
+                "id": "hv75028682",
+                "magnitud": 2.61,
+                "lugar": "19 km SE of Pāhala, Hawaii",
+                "fecha_evento": "2026-09-03 13:32:08",
+                "latitud": 19.0685,
+                "longitud": -155.353,
+                "profundidad_km": 31.91
+            },
+            {
+                "id": "us7000tdzd",
+                "magnitud": 3.9,
+                "lugar": "98 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 13:27:17",
+                "latitud": 52.0887,
+                "longitud": -169.2616,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tdzc",
+                "magnitud": 3.6,
+                "lugar": "94 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 13:20:25",
+                "latitud": 52.1435,
+                "longitud": -169.3422,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tdys",
+                "magnitud": 5.2,
+                "lugar": "100 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 13:03:18",
+                "latitud": 52.0562,
+                "longitud": -169.1988,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026rlnlbg",
+                "magnitud": 3.9,
+                "lugar": "97 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 13:01:48",
+                "latitud": 52.078,
+                "longitud": -169.16,
+                "profundidad_km": 1.7
+            },
+            {
+                "id": "aka2026rlnihs",
+                "magnitud": 3.1,
+                "lugar": "86 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 12:58:25",
+                "latitud": 52.203,
+                "longitud": -169.275,
+                "profundidad_km": 9.7
+            },
+            {
+                "id": "aka2026rlmzmf",
+                "magnitud": 3,
+                "lugar": "82 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 12:48:22",
+                "latitud": 52.221,
+                "longitud": -169.18,
+                "profundidad_km": 11.9
+            },
+            {
+                "id": "us7000tdyi",
+                "magnitud": 4.9,
+                "lugar": "90 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 12:39:34",
+                "latitud": 52.253,
+                "longitud": -169.579,
+                "profundidad_km": 44.444
+            },
+            {
+                "id": "aka2026rlmfcq",
+                "magnitud": 2.9,
+                "lugar": "82 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 12:24:52",
+                "latitud": 52.231,
+                "longitud": -169.242,
+                "profundidad_km": 10.6
+            },
+            {
+                "id": "aka2026rllxdm",
+                "magnitud": 3.1,
+                "lugar": "101 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 12:15:38",
+                "latitud": 52.072,
+                "longitud": -169.338,
+                "profundidad_km": 23.3
+            },
+            {
+                "id": "aka2026rllpqw",
+                "magnitud": 2.8,
+                "lugar": "86 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-03 12:07:03",
+                "latitud": 52.181,
+                "longitud": -169.124,
+                "profundidad_km": 10.2
+            }
+        ]
     }
 ]
