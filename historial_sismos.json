@@ -37356,5 +37356,319 @@
                 "profundidad_km": 10
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-09-06 11:29:44",
+        "periodo_desde": "2026-09-05 11:06:39",
+        "periodo_hasta": "2026-09-06 11:29:44",
+        "total_sismos_nuevos": 34,
+        "sismos": [
+            {
+                "id": "tx2026roctny",
+                "magnitud": 2.5,
+                "lugar": "41 km NW of Toyah, Texas",
+                "fecha_evento": "2026-09-06 11:24:04",
+                "latitud": 31.524,
+                "longitud": -104.156,
+                "profundidad_km": 4.4186
+            },
+            {
+                "id": "aka2026rqxcnx",
+                "magnitud": 2.6,
+                "lugar": "3 km SSW of Chenega, Alaska",
+                "fecha_evento": "2026-09-06 10:50:00",
+                "latitud": 60.038,
+                "longitud": -148.025,
+                "profundidad_km": 36.8
+            },
+            {
+                "id": "us7000tep0",
+                "magnitud": 4.8,
+                "lugar": "33 km NE of Calama, Chile",
+                "fecha_evento": "2026-09-06 10:39:32",
+                "latitud": -22.2344,
+                "longitud": -68.7038,
+                "profundidad_km": 115.537
+            },
+            {
+                "id": "us7000tepa",
+                "magnitud": 5.1,
+                "lugar": "southern East Pacific Rise",
+                "fecha_evento": "2026-09-06 10:38:34",
+                "latitud": -22.1041,
+                "longitud": -115.8427,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tep6",
+                "magnitud": 5.2,
+                "lugar": "southern East Pacific Rise",
+                "fecha_evento": "2026-09-06 10:32:28",
+                "latitud": -24.5304,
+                "longitud": -115.6112,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tenr",
+                "magnitud": 4.2,
+                "lugar": "65 km S of Camaná, Peru",
+                "fecha_evento": "2026-09-06 09:14:26",
+                "latitud": -17.21,
+                "longitud": -72.7654,
+                "profundidad_km": 35
+            },
+            {
+                "id": "ci41542024",
+                "magnitud": 3.22073479851606,
+                "lugar": "4 km SSE of Compton, CA",
+                "fecha_evento": "2026-09-06 07:13:11",
+                "latitud": 33.8585014343262,
+                "longitud": -118.204498291016,
+                "profundidad_km": 12.8100004196167
+            },
+            {
+                "id": "us7000tena",
+                "magnitud": 4.6,
+                "lugar": "91 km NE of Luwuk, Indonesia",
+                "fecha_evento": "2026-09-06 06:41:21",
+                "latitud": -0.3104,
+                "longitud": 123.3003,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ten5",
+                "magnitud": 4.4,
+                "lugar": "60 km NE of Labuan Bajo, Indonesia",
+                "fecha_evento": "2026-09-06 06:06:05",
+                "latitud": -8.1041,
+                "longitud": 120.2663,
+                "profundidad_km": 29.806
+            },
+            {
+                "id": "hv75029952",
+                "magnitud": 2.76,
+                "lugar": "6 km NW of Kurtistown, Hawaii",
+                "fecha_evento": "2026-09-06 05:31:30",
+                "latitud": 19.6350002288818,
+                "longitud": -155.10400390625,
+                "profundidad_km": 31.6399993896484
+            },
+            {
+                "id": "us7000temw",
+                "magnitud": 4.9,
+                "lugar": "118 km ENE of Kuji, Japan",
+                "fecha_evento": "2026-09-06 05:15:45",
+                "latitud": 40.7281,
+                "longitud": 142.9698,
+                "profundidad_km": 34.398
+            },
+            {
+                "id": "us7000temt",
+                "magnitud": 4.6,
+                "lugar": "Kermadec Islands region",
+                "fecha_evento": "2026-09-06 04:52:40",
+                "latitud": -28.5523,
+                "longitud": -176.8095,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026rqkejb",
+                "magnitud": 3.7,
+                "lugar": "106 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-06 04:22:23",
+                "latitud": 52.007,
+                "longitud": -169.21,
+                "profundidad_km": 10.1
+            },
+            {
+                "id": "us7000temi",
+                "magnitud": 5.6,
+                "lugar": "93 km SE of Kirakira, Solomon Islands",
+                "fecha_evento": "2026-09-06 04:05:30",
+                "latitud": -11.0595,
+                "longitud": 162.519,
+                "profundidad_km": 38.543
+            },
+            {
+                "id": "us7000teme",
+                "magnitud": 4.3,
+                "lugar": "155 km SSW of Acajutla, El Salvador",
+                "fecha_evento": "2026-09-06 04:00:21",
+                "latitud": 12.3142,
+                "longitud": -90.4217,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71531063",
+                "magnitud": 3.41,
+                "lugar": "38 km NE of Cruz Bay, U.S. Virgin Islands",
+                "fecha_evento": "2026-09-06 03:55:41",
+                "latitud": 18.5276666666667,
+                "longitud": -64.4975,
+                "profundidad_km": 7.34
+            },
+            {
+                "id": "us7000tem2",
+                "magnitud": 5.3,
+                "lugar": "108 km SW of Puerto Madero, Mexico",
+                "fecha_evento": "2026-09-06 02:56:32",
+                "latitud": 14.1551,
+                "longitud": -93.2487,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tely",
+                "magnitud": 4.2,
+                "lugar": "230 km W of Olonkinbyen, Svalbard and Jan Mayen",
+                "fecha_evento": "2026-09-06 02:13:27",
+                "latitud": 70.6365,
+                "longitud": -14.92,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026rqdkkp",
+                "magnitud": 2.7,
+                "lugar": "18 km WNW of Ivanof Bay, Alaska",
+                "fecha_evento": "2026-09-06 00:59:24",
+                "latitud": 55.975,
+                "longitud": -159.754,
+                "profundidad_km": 13.2
+            },
+            {
+                "id": "us7000telf",
+                "magnitud": 4.6,
+                "lugar": "71 km N of Isangel, Vanuatu",
+                "fecha_evento": "2026-09-05 23:46:26",
+                "latitud": -18.8949,
+                "longitud": 169.2507,
+                "profundidad_km": 240.38
+            },
+            {
+                "id": "aka2026rqamip",
+                "magnitud": 2.9,
+                "lugar": "4 km NW of Anchorage, Alaska",
+                "fecha_evento": "2026-09-05 23:31:36",
+                "latitud": 61.247,
+                "longitud": -149.947,
+                "profundidad_km": 15.3
+            },
+            {
+                "id": "aka2026rpzydz",
+                "magnitud": 3.9,
+                "lugar": "114 km SSE of Prudhoe Bay, Alaska",
+                "fecha_evento": "2026-09-05 23:15:16",
+                "latitud": 69.319,
+                "longitud": -147.124,
+                "profundidad_km": 15.7
+            },
+            {
+                "id": "us7000tel7",
+                "magnitud": 4.1,
+                "lugar": "165 km N of Tobelo, Indonesia",
+                "fecha_evento": "2026-09-05 22:33:55",
+                "latitud": 3.2041,
+                "longitud": 127.7577,
+                "profundidad_km": 101.325
+            },
+            {
+                "id": "us7000tel1",
+                "magnitud": 4.7,
+                "lugar": "95 km ESE of Isangel, Vanuatu",
+                "fecha_evento": "2026-09-05 21:06:01",
+                "latitud": -19.914,
+                "longitud": 170.104,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tekj",
+                "magnitud": 3.9,
+                "lugar": "12 km NNE of Rahotu, New Zealand",
+                "fecha_evento": "2026-09-05 18:46:09",
+                "latitud": -39.2201,
+                "longitud": 173.8298,
+                "profundidad_km": 10.589
+            },
+            {
+                "id": "aka2026rppmra",
+                "magnitud": 3.1,
+                "lugar": "55 km SSW of Pilot Point, Alaska",
+                "fecha_evento": "2026-09-05 18:01:58",
+                "latitud": 57.135,
+                "longitud": -158.055,
+                "profundidad_km": 145.9
+            },
+            {
+                "id": "us7000tek7",
+                "magnitud": 4.9,
+                "lugar": "80 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-05 18:00:09",
+                "latitud": 52.2713,
+                "longitud": -169.329,
+                "profundidad_km": 35
+            },
+            {
+                "id": "pr71531008",
+                "magnitud": 2.7,
+                "lugar": "20 km SW of Stella, Puerto Rico",
+                "fecha_evento": "2026-09-05 17:25:55",
+                "latitud": 18.1911666666667,
+                "longitud": -67.389,
+                "profundidad_km": 14.55
+            },
+            {
+                "id": "us7000tek0",
+                "magnitud": 5.6,
+                "lugar": "96 km ESE of Isangel, Vanuatu",
+                "fecha_evento": "2026-09-05 17:02:11",
+                "latitud": -19.807,
+                "longitud": 170.1576,
+                "profundidad_km": 10
+            },
+            {
+                "id": "tx2026rmntsl",
+                "magnitud": 3.6,
+                "lugar": "26 km SW of Garden City, Texas",
+                "fecha_evento": "2026-09-05 14:46:57",
+                "latitud": 31.715,
+                "longitud": -101.703,
+                "profundidad_km": 6.8115
+            },
+            {
+                "id": "us7000teji",
+                "magnitud": 5.5,
+                "lugar": "157 km E of Kokopo, Papua New Guinea",
+                "fecha_evento": "2026-09-05 14:12:07",
+                "latitud": -4.5469,
+                "longitud": 153.6766,
+                "profundidad_km": 114.364
+            },
+            {
+                "id": "us7000tejg",
+                "magnitud": 5.2,
+                "lugar": "77 km SSW of Sibolga, Indonesia",
+                "fecha_evento": "2026-09-05 14:06:07",
+                "latitud": 1.0574,
+                "longitud": 98.6095,
+                "profundidad_km": 91.853
+            },
+            {
+                "id": "us7000tejc",
+                "magnitud": 4.4,
+                "lugar": "67 km N of Port-Olry, Vanuatu",
+                "fecha_evento": "2026-09-05 12:55:05",
+                "latitud": -14.435,
+                "longitud": 167.1398,
+                "profundidad_km": 166.28
+            },
+            {
+                "id": "us7000tej2",
+                "magnitud": 5.1,
+                "lugar": "69 km E of Antofagasta de la Sierra, Argentina",
+                "fecha_evento": "2026-09-05 11:37:12",
+                "latitud": -26.1078,
+                "longitud": -66.7176,
+                "profundidad_km": 10
+            }
+        ]
     }
 ]
