@@ -41483,5 +41483,490 @@
                 "profundidad_km": 10
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-09-19 11:45:35",
+        "periodo_desde": "2026-09-18 12:02:53",
+        "periodo_hasta": "2026-09-19 11:45:35",
+        "total_sismos_nuevos": 53,
+        "sismos": [
+            {
+                "id": "nc75438287",
+                "magnitud": 2.5,
+                "lugar": "10 km ENE of Milpitas, CA",
+                "fecha_evento": "2026-09-19 10:52:05",
+                "latitud": 37.466667175293,
+                "longitud": -121.801834106445,
+                "profundidad_km": 2.67000007629395
+            },
+            {
+                "id": "us7000tiiz",
+                "magnitud": 4.8,
+                "lugar": "18 km SW of Mongar, Bhutan",
+                "fecha_evento": "2026-09-19 10:31:17",
+                "latitud": 27.1636,
+                "longitud": 91.1016,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tiis",
+                "magnitud": 5,
+                "lugar": "South Sandwich Islands region",
+                "fecha_evento": "2026-09-19 09:59:59",
+                "latitud": -55.6255,
+                "longitud": -28.1116,
+                "profundidad_km": 77.621
+            },
+            {
+                "id": "us7000tiim",
+                "magnitud": 4.8,
+                "lugar": "268 km NNW of Kuril’sk, Russia",
+                "fecha_evento": "2026-09-19 09:34:04",
+                "latitud": 47.4016,
+                "longitud": 146.3637,
+                "profundidad_km": 394.117
+            },
+            {
+                "id": "pr71532943",
+                "magnitud": 3.41,
+                "lugar": "142 km N of Hatillo, Puerto Rico",
+                "fecha_evento": "2026-09-19 07:54:22",
+                "latitud": 19.7728333333333,
+                "longitud": -66.7496666666667,
+                "profundidad_km": 33.14
+            },
+            {
+                "id": "us7000tiib",
+                "magnitud": 4.8,
+                "lugar": "210 km W of Abepura, Indonesia",
+                "fecha_evento": "2026-09-19 07:44:25",
+                "latitud": -2.5871,
+                "longitud": 138.7377,
+                "profundidad_km": 10
+            },
+            {
+                "id": "tx2026slrnmv",
+                "magnitud": 2.5,
+                "lugar": "58 km S of Whites City, New Mexico",
+                "fecha_evento": "2026-09-19 07:32:19",
+                "latitud": 31.648,
+                "longitud": -104.444,
+                "profundidad_km": 5.4761
+            },
+            {
+                "id": "us7000tii3",
+                "magnitud": 4.9,
+                "lugar": "117 km NW of Barranca, Peru",
+                "fecha_evento": "2026-09-19 07:12:27",
+                "latitud": -4.0134,
+                "longitud": -77.349,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tii4",
+                "magnitud": 4.6,
+                "lugar": "57 km ESE of Koseda, Japan",
+                "fecha_evento": "2026-09-19 07:08:23",
+                "latitud": 30.1668,
+                "longitud": 131.1901,
+                "profundidad_km": 38.536
+            },
+            {
+                "id": "pr71532923",
+                "magnitud": 2.95,
+                "lugar": "7 km SSE of Ponce, Puerto Rico",
+                "fecha_evento": "2026-09-19 07:01:42",
+                "latitud": 17.95,
+                "longitud": -66.591,
+                "profundidad_km": 13.82
+            },
+            {
+                "id": "pr71532898",
+                "magnitud": 3.07,
+                "lugar": "4 km WSW of Fuig, Puerto Rico",
+                "fecha_evento": "2026-09-19 05:31:19",
+                "latitud": 17.9726666666667,
+                "longitud": -66.9571666666667,
+                "profundidad_km": 7.87
+            },
+            {
+                "id": "pr71532883",
+                "magnitud": 3.13,
+                "lugar": "5 km SW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-19 05:06:57",
+                "latitud": 17.9445,
+                "longitud": -66.9478333333333,
+                "profundidad_km": 7.89
+            },
+            {
+                "id": "us7000tihg",
+                "magnitud": 4.3,
+                "lugar": "29 km SSW of Sipí, Colombia",
+                "fecha_evento": "2026-09-19 05:01:48",
+                "latitud": 4.415,
+                "longitud": -76.7636,
+                "profundidad_km": 74.036
+            },
+            {
+                "id": "pr2026262000",
+                "magnitud": 2.95,
+                "lugar": "3 km SW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-19 04:49:08",
+                "latitud": 17.9478,
+                "longitud": -66.9363,
+                "profundidad_km": 7
+            },
+            {
+                "id": "us7000tih8",
+                "magnitud": 5.2,
+                "lugar": "210 km WNW of Abepura, Indonesia",
+                "fecha_evento": "2026-09-19 04:18:35",
+                "latitud": -1.8561,
+                "longitud": 138.8882,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71532853",
+                "magnitud": 2.48,
+                "lugar": "4 km SW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-19 03:33:42",
+                "latitud": 17.9495,
+                "longitud": -66.9398333333333,
+                "profundidad_km": 7.07
+            },
+            {
+                "id": "hv75039922",
+                "magnitud": 2.82,
+                "lugar": "3 km SSW of Pāhala, Hawaii",
+                "fecha_evento": "2026-09-19 03:28:41",
+                "latitud": 19.1693333333333,
+                "longitud": -155.488166666667,
+                "profundidad_km": 13.79
+            },
+            {
+                "id": "pr71532863",
+                "magnitud": 2.48,
+                "lugar": "3 km SSW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-19 03:13:39",
+                "latitud": 17.9408333333333,
+                "longitud": -66.9275,
+                "profundidad_km": 13.13
+            },
+            {
+                "id": "pr71532843",
+                "magnitud": 2.47,
+                "lugar": "4 km SW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-19 03:12:08",
+                "latitud": 17.9458333333333,
+                "longitud": -66.9425,
+                "profundidad_km": 9.46
+            },
+            {
+                "id": "us7000tigd",
+                "magnitud": 5.5,
+                "lugar": "Kermadec Islands region",
+                "fecha_evento": "2026-09-18 23:18:28",
+                "latitud": -27.8581,
+                "longitud": -177.2286,
+                "profundidad_km": 94.054
+            },
+            {
+                "id": "pr71532753",
+                "magnitud": 2.59,
+                "lugar": "4 km WSW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-18 22:28:10",
+                "latitud": 17.9576666666667,
+                "longitud": -66.951,
+                "profundidad_km": 7.33
+            },
+            {
+                "id": "pr71532738",
+                "magnitud": 2.46,
+                "lugar": "5 km SW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-18 22:15:41",
+                "latitud": 17.9451666666667,
+                "longitud": -66.9481666666667,
+                "profundidad_km": 6.87
+            },
+            {
+                "id": "us7000tifz",
+                "magnitud": 4.3,
+                "lugar": "15 km NNW of Mantoúdi, Greece",
+                "fecha_evento": "2026-09-18 22:11:57",
+                "latitud": 38.9246,
+                "longitud": 23.3956,
+                "profundidad_km": 10
+            },
+            {
+                "id": "ci41334847",
+                "magnitud": 2.53,
+                "lugar": "11 km N of Fillmore, CA",
+                "fecha_evento": "2026-09-18 21:30:38",
+                "latitud": 34.5016666666667,
+                "longitud": -118.911833333333,
+                "profundidad_km": 26.58
+            },
+            {
+                "id": "pr2026261003",
+                "magnitud": 3.73,
+                "lugar": "30 km SSW of Boca de Yuma, Dominican Republic",
+                "fecha_evento": "2026-09-18 21:26:40",
+                "latitud": 18.113,
+                "longitud": -68.7021,
+                "profundidad_km": 128
+            },
+            {
+                "id": "pr71532618",
+                "magnitud": 3.01,
+                "lugar": "4 km WSW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-18 19:28:33",
+                "latitud": 17.9498333333333,
+                "longitud": -66.9486666666667,
+                "profundidad_km": 6.97
+            },
+            {
+                "id": "pr71532603",
+                "magnitud": 2.72,
+                "lugar": "4 km WSW of Fuig, Puerto Rico",
+                "fecha_evento": "2026-09-18 19:24:48",
+                "latitud": 17.976,
+                "longitud": -66.9545,
+                "profundidad_km": 6.33
+            },
+            {
+                "id": "us7000tiem",
+                "magnitud": 4.5,
+                "lugar": "112 km ESE of Ust’-Kamchatsk Staryy, Russia",
+                "fecha_evento": "2026-09-18 19:16:37",
+                "latitud": 55.7503,
+                "longitud": 164.062,
+                "profundidad_km": 30.943
+            },
+            {
+                "id": "us7000tiej",
+                "magnitud": 2.6,
+                "lugar": "28 km E of Honaunau-Napoopoo, Hawaii",
+                "fecha_evento": "2026-09-18 19:13:17",
+                "latitud": 19.4646,
+                "longitud": -155.5904,
+                "profundidad_km": 26.769
+            },
+            {
+                "id": "us7000tie4",
+                "magnitud": 4.5,
+                "lugar": "23 km SW of Sipí, Colombia",
+                "fecha_evento": "2026-09-18 18:41:22",
+                "latitud": 4.5042,
+                "longitud": -76.7978,
+                "profundidad_km": 72.587
+            },
+            {
+                "id": "uw714105301",
+                "magnitud": 2.68,
+                "lugar": "25 km ENE of Yacolt, Washington",
+                "fecha_evento": "2026-09-18 18:33:46",
+                "latitud": 45.9486666666667,
+                "longitud": -122.098833333333,
+                "profundidad_km": 9.25
+            },
+            {
+                "id": "pr71532538",
+                "magnitud": 2.84,
+                "lugar": "4 km WSW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-18 18:23:30",
+                "latitud": 17.9553333333333,
+                "longitud": -66.9475,
+                "profundidad_km": 7.58
+            },
+            {
+                "id": "us7000tidr",
+                "magnitud": 4.4,
+                "lugar": "226 km SSW of Pelabuhanratu, Indonesia",
+                "fecha_evento": "2026-09-18 17:42:37",
+                "latitud": -8.776,
+                "longitud": 105.5443,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026snoksy",
+                "magnitud": 2.6,
+                "lugar": "37 km WSW of Aleneva, Alaska",
+                "fecha_evento": "2026-09-18 17:21:24",
+                "latitud": 57.938,
+                "longitud": -153.502,
+                "profundidad_km": 51
+            },
+            {
+                "id": "pr2026261002",
+                "magnitud": 3.4,
+                "lugar": "5 km WSW of Fuig, Puerto Rico",
+                "fecha_evento": "2026-09-18 17:20:42",
+                "latitud": 17.9658,
+                "longitud": -66.9605,
+                "profundidad_km": 6
+            },
+            {
+                "id": "us7000tid8",
+                "magnitud": 2.8,
+                "lugar": "7 km ESE of Waikoloa, Hawaii",
+                "fecha_evento": "2026-09-18 17:04:59",
+                "latitud": 19.9161,
+                "longitud": -155.7172,
+                "profundidad_km": 31.318
+            },
+            {
+                "id": "hv75039542",
+                "magnitud": 2.49,
+                "lugar": "10 km S of Waimea, Hawaii",
+                "fecha_evento": "2026-09-18 17:03:29",
+                "latitud": 19.9295,
+                "longitud": -155.683333333333,
+                "profundidad_km": 0.07
+            },
+            {
+                "id": "pr71532403",
+                "magnitud": 2.7,
+                "lugar": "6 km WSW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-18 16:57:53",
+                "latitud": 17.9443333333333,
+                "longitud": -66.958,
+                "profundidad_km": 7.66
+            },
+            {
+                "id": "pr71532383",
+                "magnitud": 2.56,
+                "lugar": "4 km WSW of Fuig, Puerto Rico",
+                "fecha_evento": "2026-09-18 16:57:05",
+                "latitud": 17.9705,
+                "longitud": -66.9521666666667,
+                "profundidad_km": 7.86
+            },
+            {
+                "id": "aka2026snnoxq",
+                "magnitud": 3.5,
+                "lugar": "48 km WSW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-18 16:56:17",
+                "latitud": 52.751,
+                "longitud": -169.518,
+                "profundidad_km": 72.1
+            },
+            {
+                "id": "us7000tid4",
+                "magnitud": 5.2,
+                "lugar": "28 km NE of Villa Presidente Frei, Chile",
+                "fecha_evento": "2026-09-18 16:52:07",
+                "latitud": -33.3109,
+                "longitud": -70.3344,
+                "profundidad_km": 100.009
+            },
+            {
+                "id": "us7000tib8",
+                "magnitud": 5.2,
+                "lugar": "189 km SSW of Pelabuhanratu, Indonesia",
+                "fecha_evento": "2026-09-18 14:36:17",
+                "latitud": -8.5809,
+                "longitud": 105.9112,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71532288",
+                "magnitud": 2.52,
+                "lugar": "3 km WSW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-18 14:13:34",
+                "latitud": 17.9561666666667,
+                "longitud": -66.9338333333333,
+                "profundidad_km": 9.21
+            },
+            {
+                "id": "pr71532283",
+                "magnitud": 2.64,
+                "lugar": "3 km SW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-18 14:08:21",
+                "latitud": 17.9486666666667,
+                "longitud": -66.9308333333333,
+                "profundidad_km": 7.93
+            },
+            {
+                "id": "us7000tib5",
+                "magnitud": 4.6,
+                "lugar": "104 km NNW of Sola, Vanuatu",
+                "fecha_evento": "2026-09-18 13:57:56",
+                "latitud": -13.0681,
+                "longitud": 167.0585,
+                "profundidad_km": 191.321
+            },
+            {
+                "id": "us7000tiax",
+                "magnitud": 3.6,
+                "lugar": "5 km NW of Black Eagle, Montana",
+                "fecha_evento": "2026-09-18 13:40:42",
+                "latitud": 47.5572,
+                "longitud": -111.3244,
+                "profundidad_km": 27.731
+            },
+            {
+                "id": "us7000tiav",
+                "magnitud": 2.9,
+                "lugar": "4 km SW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-18 13:35:27",
+                "latitud": 17.9368,
+                "longitud": -66.9352,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71532193",
+                "magnitud": 2.51,
+                "lugar": "3 km W of Fuig, Puerto Rico",
+                "fecha_evento": "2026-09-18 13:22:55",
+                "latitud": 17.9866666666667,
+                "longitud": -66.9461666666667,
+                "profundidad_km": 7.63
+            },
+            {
+                "id": "pr2026261000",
+                "magnitud": 4.8,
+                "lugar": "5 km SW of Guánica, Puerto Rico",
+                "fecha_evento": "2026-09-18 13:19:35",
+                "latitud": 17.9391,
+                "longitud": -66.9455,
+                "profundidad_km": 7
+            },
+            {
+                "id": "us7000tiaq",
+                "magnitud": 4.6,
+                "lugar": "125 km SSW of La Esperanza (El Zapotal), Mexico",
+                "fecha_evento": "2026-09-18 13:12:49",
+                "latitud": 14.3814,
+                "longitud": -93.5556,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ti9c",
+                "magnitud": 4.7,
+                "lugar": "34 km NNE of Ruteng, Indonesia",
+                "fecha_evento": "2026-09-18 12:20:56",
+                "latitud": -8.3213,
+                "longitud": 120.5723,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ti9a",
+                "magnitud": 4.6,
+                "lugar": "204 km N of Daocheng, China",
+                "fecha_evento": "2026-09-18 12:09:48",
+                "latitud": 30.8534,
+                "longitud": 99.922,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ti97",
+                "magnitud": 4.2,
+                "lugar": "34 km S of Jurm, Afghanistan",
+                "fecha_evento": "2026-09-18 12:07:38",
+                "latitud": 36.5552,
+                "longitud": 70.8569,
+                "profundidad_km": 179.456
+            }
+        ]
     }
 ]
