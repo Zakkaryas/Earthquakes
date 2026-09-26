@@ -44212,5 +44212,373 @@
                 "profundidad_km": 10
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-09-26 12:01:47",
+        "periodo_desde": "2026-09-25 12:32:05",
+        "periodo_hasta": "2026-09-26 12:01:47",
+        "total_sismos_nuevos": 40,
+        "sismos": [
+            {
+                "id": "us6000txsh",
+                "magnitud": 4.7,
+                "lugar": "North Indian Ocean",
+                "fecha_evento": "2026-09-26 10:53:15",
+                "latitud": 1.831,
+                "longitud": 89.4977,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026tbvlmd",
+                "magnitud": 2.5,
+                "lugar": "52 km NNW of Petersville, Alaska",
+                "fecha_evento": "2026-09-26 10:47:13",
+                "latitud": 62.914,
+                "longitud": -151.244,
+                "profundidad_km": 116.3
+            },
+            {
+                "id": "us6000txse",
+                "magnitud": 4.9,
+                "lugar": "73 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 10:21:05",
+                "latitud": -21.2105,
+                "longitud": 168.4957,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txs3",
+                "magnitud": 4.8,
+                "lugar": "78 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 09:10:31",
+                "latitud": -21.182,
+                "longitud": 168.5301,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txs2",
+                "magnitud": 4.8,
+                "lugar": "97 km NE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 09:08:05",
+                "latitud": -21.0058,
+                "longitud": 168.6238,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txs6",
+                "magnitud": 4.7,
+                "lugar": "71 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 09:07:19",
+                "latitud": -21.2366,
+                "longitud": 168.4865,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txrz",
+                "magnitud": 4.7,
+                "lugar": "97 km NE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 08:54:03",
+                "latitud": -21.0172,
+                "longitud": 168.6325,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txrs",
+                "magnitud": 5,
+                "lugar": "78 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 08:24:58",
+                "latitud": -21.2116,
+                "longitud": 168.5478,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txrr",
+                "magnitud": 3.5,
+                "lugar": "2 km NNW of Absam, Austria",
+                "fecha_evento": "2026-09-26 07:56:55",
+                "latitud": 47.3148,
+                "longitud": 11.4944,
+                "profundidad_km": 6.533
+            },
+            {
+                "id": "us6000txrq",
+                "magnitud": 5,
+                "lugar": "84 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 07:22:12",
+                "latitud": -21.2249,
+                "longitud": 168.614,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txrn",
+                "magnitud": 5.1,
+                "lugar": "68 km NE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 07:08:02",
+                "latitud": -21.1943,
+                "longitud": 168.4225,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txrj",
+                "magnitud": 4.6,
+                "lugar": "25 km W of Roncesvalles, Colombia",
+                "fecha_evento": "2026-09-26 06:38:19",
+                "latitud": 4.018,
+                "longitud": -75.8315,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txrf",
+                "magnitud": 5.1,
+                "lugar": "64 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 05:50:48",
+                "latitud": -21.227,
+                "longitud": 168.4033,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71534718",
+                "magnitud": 2.79,
+                "lugar": "8 km NNE of Tierras Nuevas Poniente, Puerto Rico",
+                "fecha_evento": "2026-09-26 05:35:09",
+                "latitud": 18.5378333333333,
+                "longitud": -66.4598333333333,
+                "profundidad_km": 88.89
+            },
+            {
+                "id": "nc75442217",
+                "magnitud": 2.74,
+                "lugar": "10 km W of Boonville, CA",
+                "fecha_evento": "2026-09-26 04:02:07",
+                "latitud": 39.013500213623,
+                "longitud": -123.483001708984,
+                "profundidad_km": 3.46000003814697
+            },
+            {
+                "id": "nc75442207",
+                "magnitud": 3.74,
+                "lugar": "10 km W of Boonville, CA",
+                "fecha_evento": "2026-09-26 03:42:49",
+                "latitud": 39.0145,
+                "longitud": -123.477333333333,
+                "profundidad_km": 4.78
+            },
+            {
+                "id": "us6000txr0",
+                "magnitud": 4.5,
+                "lugar": "Iceland region",
+                "fecha_evento": "2026-09-26 02:52:55",
+                "latitud": 68.8565,
+                "longitud": -16.9554,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txqv",
+                "magnitud": 4.4,
+                "lugar": "4 km NNE of Uto, Japan",
+                "fecha_evento": "2026-09-26 01:31:19",
+                "latitud": 32.7187,
+                "longitud": 130.6922,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txqu",
+                "magnitud": 5.3,
+                "lugar": "58 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-26 01:10:19",
+                "latitud": -21.2883,
+                "longitud": 168.3721,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txql",
+                "magnitud": 5,
+                "lugar": "15 km NNW of Xunchang, China",
+                "fecha_evento": "2026-09-25 23:57:33",
+                "latitud": 28.5792,
+                "longitud": 104.6428,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txqk",
+                "magnitud": 5.4,
+                "lugar": "69 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-25 23:52:35",
+                "latitud": -21.2023,
+                "longitud": 168.4346,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txqi",
+                "magnitud": 5.5,
+                "lugar": "61 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-25 23:39:41",
+                "latitud": -21.3748,
+                "longitud": 168.4446,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txqf",
+                "magnitud": 4.9,
+                "lugar": "78 km NE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-25 23:32:44",
+                "latitud": -21.1532,
+                "longitud": 168.5092,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026tawqyh",
+                "magnitud": 2.5,
+                "lugar": "22 km WSW of Cantwell, Alaska",
+                "fecha_evento": "2026-09-25 22:23:50",
+                "latitud": 63.293,
+                "longitud": -149.334,
+                "profundidad_km": 82.8
+            },
+            {
+                "id": "us6000txq2",
+                "magnitud": 5.1,
+                "lugar": "78 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-25 22:07:34",
+                "latitud": -21.2728,
+                "longitud": 168.5744,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txpi",
+                "magnitud": 6.6,
+                "lugar": "80 km ENE of Tadine, New Caledonia",
+                "fecha_evento": "2026-09-25 21:23:03",
+                "latitud": -21.2982,
+                "longitud": 168.61,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txpf",
+                "magnitud": 5,
+                "lugar": "13 km N of Xunchang, China",
+                "fecha_evento": "2026-09-25 21:01:27",
+                "latitud": 28.5744,
+                "longitud": 104.7032,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000txpa",
+                "magnitud": 4.5,
+                "lugar": "south of the Fiji Islands",
+                "fecha_evento": "2026-09-25 20:43:32",
+                "latitud": -24.0533,
+                "longitud": -179.9919,
+                "profundidad_km": 482.813
+            },
+            {
+                "id": "us6000txp8",
+                "magnitud": 4.6,
+                "lugar": "144 km SE of Lata, Solomon Islands",
+                "fecha_evento": "2026-09-25 20:41:09",
+                "latitud": -11.7022,
+                "longitud": 166.6797,
+                "profundidad_km": 223.583
+            },
+            {
+                "id": "aka2026tasxwj",
+                "magnitud": 3.3,
+                "lugar": "129 km E of Chignik, Alaska",
+                "fecha_evento": "2026-09-25 20:31:53",
+                "latitud": 56.375,
+                "longitud": -156.314,
+                "profundidad_km": 6.3
+            },
+            {
+                "id": "us6000txp3",
+                "magnitud": 2.7,
+                "lugar": "9 km NE of Pleasant Hill, Louisiana",
+                "fecha_evento": "2026-09-25 20:26:11",
+                "latitud": 31.8713,
+                "longitud": -93.4352,
+                "profundidad_km": 6.098
+            },
+            {
+                "id": "us6000txnq",
+                "magnitud": 4.8,
+                "lugar": "42 km N of Ruteng, Indonesia",
+                "fecha_evento": "2026-09-25 19:39:29",
+                "latitud": -8.2281,
+                "longitud": 120.4296,
+                "profundidad_km": 14.458
+            },
+            {
+                "id": "tx2026sxmsve",
+                "magnitud": 2.6,
+                "lugar": "11 km NE of Toyah, Texas",
+                "fecha_evento": "2026-09-25 18:01:21",
+                "latitud": 31.379,
+                "longitud": -103.705,
+                "profundidad_km": 6.228
+            },
+            {
+                "id": "hv75043722",
+                "magnitud": 3.22,
+                "lugar": "2 km SW of Honaunau-Napoopoo, Hawaii",
+                "fecha_evento": "2026-09-25 17:54:48",
+                "latitud": 19.4443333333333,
+                "longitud": -155.880333333333,
+                "profundidad_km": 7.47
+            },
+            {
+                "id": "aka2026tamcpb",
+                "magnitud": 2.5,
+                "lugar": "55 km WSW of Karluk, Alaska",
+                "fecha_evento": "2026-09-25 17:07:23",
+                "latitud": 57.424,
+                "longitud": -155.342,
+                "profundidad_km": 69.3
+            },
+            {
+                "id": "us6000txme",
+                "magnitud": 5.2,
+                "lugar": "62 km SW of San Antonio, Chile",
+                "fecha_evento": "2026-09-25 15:29:09",
+                "latitud": -33.9661,
+                "longitud": -72.1079,
+                "profundidad_km": 29.072
+            },
+            {
+                "id": "us6000txkc",
+                "magnitud": 4.7,
+                "lugar": "80 km SW of Labuan, Indonesia",
+                "fecha_evento": "2026-09-25 13:47:26",
+                "latitud": -6.9267,
+                "longitud": 105.3554,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71534643",
+                "magnitud": 2.5,
+                "lugar": "6 km SSE of Salinas, Puerto Rico",
+                "fecha_evento": "2026-09-25 13:17:57",
+                "latitud": 17.9158333333333,
+                "longitud": -66.2845,
+                "profundidad_km": 7.75
+            },
+            {
+                "id": "aka2026tadcql",
+                "magnitud": 3.8,
+                "lugar": "136 km SW of Nikolski, Alaska",
+                "fecha_evento": "2026-09-25 12:37:32",
+                "latitud": 52.123,
+                "longitud": -170.358,
+                "profundidad_km": 23.3
+            },
+            {
+                "id": "us6000txk8",
+                "magnitud": 4.9,
+                "lugar": "Drake Passage",
+                "fecha_evento": "2026-09-25 12:37:16",
+                "latitud": -59.849,
+                "longitud": -61.371,
+                "profundidad_km": 10
+            }
+        ]
     }
 ]
