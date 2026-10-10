@@ -49957,5 +49957,85 @@
                 "profundidad_km": 10
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-10-10 13:15:43",
+        "periodo_desde": "2026-10-10 09:28:02",
+        "periodo_hasta": "2026-10-10 13:15:43",
+        "total_sismos_nuevos": 8,
+        "sismos": [
+            {
+                "id": "us6000u1em",
+                "magnitud": 4.3,
+                "lugar": "3 km SSW of Tebario, Panama",
+                "fecha_evento": "2026-10-10 12:34:08",
+                "latitud": 7.689,
+                "longitud": -80.9902,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u1ej",
+                "magnitud": 4.6,
+                "lugar": "268 km WNW of Houma, Tonga",
+                "fecha_evento": "2026-10-10 12:21:02",
+                "latitud": -19.9451,
+                "longitud": -177.5258,
+                "profundidad_km": 560.2
+            },
+            {
+                "id": "us6000u1ed",
+                "magnitud": 4.3,
+                "lugar": "88 km S of Wonosari, Indonesia",
+                "fecha_evento": "2026-10-10 11:53:19",
+                "latitud": -8.757,
+                "longitud": 110.7179,
+                "profundidad_km": 68.816
+            },
+            {
+                "id": "us6000u1e5",
+                "magnitud": 4.8,
+                "lugar": "4 km NE of Río Grande, Panama",
+                "fecha_evento": "2026-10-10 10:35:11",
+                "latitud": 7.7463,
+                "longitud": -81.3092,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u1e1",
+                "magnitud": 4.4,
+                "lugar": "32 km WSW of Kandrian, Papua New Guinea",
+                "fecha_evento": "2026-10-10 10:11:18",
+                "latitud": -6.3313,
+                "longitud": 149.2865,
+                "profundidad_km": 56.818
+            },
+            {
+                "id": "us6000u1dx",
+                "magnitud": 4.2,
+                "lugar": "16 km SSE of Los Asientos, Panama",
+                "fecha_evento": "2026-10-10 09:48:18",
+                "latitud": 7.3754,
+                "longitud": -80.0853,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u1dy",
+                "magnitud": 4.6,
+                "lugar": "31 km SE of Vanimo, Papua New Guinea",
+                "fecha_evento": "2026-10-10 09:42:58",
+                "latitud": -2.8851,
+                "longitud": 141.496,
+                "profundidad_km": 30.387
+            },
+            {
+                "id": "us6000u1dw",
+                "magnitud": 4.1,
+                "lugar": "south of the Fiji Islands",
+                "fecha_evento": "2026-10-10 09:34:35",
+                "latitud": -25.778,
+                "longitud": 179.3372,
+                "profundidad_km": 512.539
+            }
+        ]
     }
 ]
