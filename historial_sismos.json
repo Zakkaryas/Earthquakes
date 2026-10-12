@@ -50780,5 +50780,166 @@
                 "profundidad_km": 53.473
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-10-12 16:27:20",
+        "periodo_desde": "2026-10-12 08:40:46",
+        "periodo_hasta": "2026-10-12 16:27:20",
+        "total_sismos_nuevos": 17,
+        "sismos": [
+            {
+                "id": "us6000u1sn",
+                "magnitud": 4.9,
+                "lugar": "283 km SSW of Severo-Kuril’sk, Russia",
+                "fecha_evento": "2026-10-12 15:44:33",
+                "latitud": 48.2626,
+                "longitud": 154.8502,
+                "profundidad_km": 35
+            },
+            {
+                "id": "pr71536538",
+                "magnitud": 3.35,
+                "lugar": "15 km NNE of Miches, Dominican Republic",
+                "fecha_evento": "2026-10-12 15:36:33",
+                "latitud": 19.1101666666667,
+                "longitud": -68.9915,
+                "profundidad_km": 19.9
+            },
+            {
+                "id": "aka2026uftgts",
+                "magnitud": 2.5,
+                "lugar": "57 km S of Ivanof Bay, Alaska",
+                "fecha_evento": "2026-10-12 15:31:05",
+                "latitud": 55.397,
+                "longitud": -159.326,
+                "profundidad_km": 17.8
+            },
+            {
+                "id": "nc75448351",
+                "magnitud": 3.43,
+                "lugar": "29 km W of Petrolia, CA",
+                "fecha_evento": "2026-10-12 15:21:56",
+                "latitud": 40.2890014648438,
+                "longitud": -124.62483215332,
+                "profundidad_km": 0.730000019073486
+            },
+            {
+                "id": "us6000u1s8",
+                "magnitud": 4.6,
+                "lugar": "194 km SE of Attu Station, Alaska",
+                "fecha_evento": "2026-10-12 14:29:53",
+                "latitud": 51.4264,
+                "longitud": 174.8342,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026ufqvwj",
+                "magnitud": 2.6,
+                "lugar": "73 km WNW of Ninilchik, Alaska",
+                "fecha_evento": "2026-10-12 14:19:11",
+                "latitud": 60.353,
+                "longitud": -152.852,
+                "profundidad_km": 132.8
+            },
+            {
+                "id": "us6000u1s2",
+                "magnitud": 4.8,
+                "lugar": "Mid-Indian Ridge",
+                "fecha_evento": "2026-10-12 13:44:41",
+                "latitud": -16.2931,
+                "longitud": 67.099,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u1rx",
+                "magnitud": 4.5,
+                "lugar": "6 km W of Tonosí, Panama",
+                "fecha_evento": "2026-10-12 13:17:18",
+                "latitud": 7.3997,
+                "longitud": -80.4946,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u1rv",
+                "magnitud": 3.5,
+                "lugar": "105 km SSE of Sand Point, Alaska",
+                "fecha_evento": "2026-10-12 13:05:41",
+                "latitud": 54.4548,
+                "longitud": -159.9069,
+                "profundidad_km": 35
+            },
+            {
+                "id": "aka2026ufnapa",
+                "magnitud": 2.6,
+                "lugar": "36 km WNW of Central, Alaska",
+                "fecha_evento": "2026-10-12 12:24:04",
+                "latitud": 65.734,
+                "longitud": -145.485,
+                "profundidad_km": 4.6
+            },
+            {
+                "id": "nc75448271",
+                "magnitud": 2.53,
+                "lugar": "26 km WSW of Petrolia, CA",
+                "fecha_evento": "2026-10-12 12:13:16",
+                "latitud": 40.269832611084,
+                "longitud": -124.583335876465,
+                "profundidad_km": 5.01000022888184
+            },
+            {
+                "id": "us6000u1rm",
+                "magnitud": 4.6,
+                "lugar": "100 km SSW of Kencong, Indonesia",
+                "fecha_evento": "2026-10-12 11:58:08",
+                "latitud": -9.152,
+                "longitud": 113.0997,
+                "profundidad_km": 55.223
+            },
+            {
+                "id": "nc75448261",
+                "magnitud": 3.41,
+                "lugar": "32 km W of Petrolia, CA",
+                "fecha_evento": "2026-10-12 11:45:41",
+                "latitud": 40.2903327941895,
+                "longitud": -124.65633392334,
+                "profundidad_km": 0.280000001192093
+            },
+            {
+                "id": "us6000u1rh",
+                "magnitud": 5.4,
+                "lugar": "Mid-Indian Ridge",
+                "fecha_evento": "2026-10-12 11:28:43",
+                "latitud": -8.873,
+                "longitud": 67.3909,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u1re",
+                "magnitud": 4.3,
+                "lugar": "6 km NNW of El Cortezo, Panama",
+                "fecha_evento": "2026-10-12 11:07:27",
+                "latitud": 7.4832,
+                "longitud": -80.646,
+                "profundidad_km": 10
+            },
+            {
+                "id": "nc75448246",
+                "magnitud": 2.72,
+                "lugar": "26 km W of Petrolia, CA",
+                "fecha_evento": "2026-10-12 09:12:55",
+                "latitud": 40.2815017700195,
+                "longitud": -124.59049987793,
+                "profundidad_km": 7.11999988555908
+            },
+            {
+                "id": "us6000u1r3",
+                "magnitud": 4.6,
+                "lugar": "122 km SE of Bitung, Indonesia",
+                "fecha_evento": "2026-10-12 08:59:14",
+                "latitud": 0.6834,
+                "longitud": 125.9293,
+                "profundidad_km": 49.217
+            }
+        ]
     }
 ]
