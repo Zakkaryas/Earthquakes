@@ -649,7 +649,7 @@ function renderContinentes(sismos){
 
 let mapaGlobal = null;
 const marcadores = new Map();
-const UMBRAL_ALERTA = 5;
+const UMBRAL_ALERTA = 6;
 
 function esc(t){
   return String(t ?? "").replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
