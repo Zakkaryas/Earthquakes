@@ -51662,5 +51662,31 @@
         "periodo_hasta": "2026-10-14 12:46:28",
         "total_sismos_nuevos": 0,
         "sismos": []
+    },
+    {
+        "fecha_consulta": "2026-10-14 14:34:23",
+        "periodo_desde": "2026-10-14 12:46:28",
+        "periodo_hasta": "2026-10-14 14:34:23",
+        "total_sismos_nuevos": 2,
+        "sismos": [
+            {
+                "id": "nc75449266",
+                "magnitud": 2.99,
+                "lugar": "23 km NE of Hydesville, CA",
+                "fecha_evento": "2026-10-14 13:56:12",
+                "latitud": 40.6769981384277,
+                "longitud": -123.889335632324,
+                "profundidad_km": 4.44000005722046
+            },
+            {
+                "id": "nm60628596",
+                "magnitud": 2.45,
+                "lugar": "4 km SSW of Thomasville, Missouri",
+                "fecha_evento": "2026-10-14 13:31:12",
+                "latitud": 36.759,
+                "longitud": -91.557,
+                "profundidad_km": 1.49
+            }
+        ]
     }
 ]
