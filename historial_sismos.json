@@ -54814,5 +54814,382 @@
         "periodo_hasta": "2026-10-22 12:52:24",
         "total_sismos_nuevos": 0,
         "sismos": []
+    },
+    {
+        "fecha_consulta": "2026-10-23 12:22:50",
+        "periodo_desde": "2026-10-22 12:52:24",
+        "periodo_hasta": "2026-10-23 12:22:50",
+        "total_sismos_nuevos": 41,
+        "sismos": [
+            {
+                "id": "us6000u4bk",
+                "magnitud": 5.7,
+                "lugar": "61 km WNW of Leni, Italy",
+                "fecha_evento": "2026-10-23 10:19:16",
+                "latitud": 38.7199,
+                "longitud": 14.152,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u4bg",
+                "magnitud": 4.9,
+                "lugar": "53 km WNW of Leni, Italy",
+                "fecha_evento": "2026-10-23 09:51:39",
+                "latitud": 38.7219,
+                "longitud": 14.2527,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u4b3",
+                "magnitud": 4.5,
+                "lugar": "18 km WNW of Bantogon, Philippines",
+                "fecha_evento": "2026-10-23 09:09:36",
+                "latitud": 6.5678,
+                "longitud": 123.8685,
+                "profundidad_km": 591.289
+            },
+            {
+                "id": "aka2026uzkyen",
+                "magnitud": 2.7,
+                "lugar": "66 km WNW of Happy Valley, Alaska",
+                "fecha_evento": "2026-10-23 07:14:13",
+                "latitud": 60.118,
+                "longitud": -152.869,
+                "profundidad_km": 123
+            },
+            {
+                "id": "us6000u4ah",
+                "magnitud": 4.2,
+                "lugar": "99 km SSE of Sand Point, Alaska",
+                "fecha_evento": "2026-10-23 06:44:49",
+                "latitud": 54.5978,
+                "longitud": -159.6369,
+                "profundidad_km": 36.905
+            },
+            {
+                "id": "us6000u4ag",
+                "magnitud": 4.4,
+                "lugar": "19 km N of Finschhafen, Papua New Guinea",
+                "fecha_evento": "2026-10-23 06:34:42",
+                "latitud": -6.3846,
+                "longitud": 147.8479,
+                "profundidad_km": 64.562
+            },
+            {
+                "id": "us6000u4ac",
+                "magnitud": 4.3,
+                "lugar": "289 km W of Houma, Tonga",
+                "fecha_evento": "2026-10-23 06:07:19",
+                "latitud": -20.8884,
+                "longitud": -178.069,
+                "profundidad_km": 463.372
+            },
+            {
+                "id": "nc75453736",
+                "magnitud": 3.37,
+                "lugar": "70 km W of Ferndale, CA",
+                "fecha_evento": "2026-10-23 05:38:19",
+                "latitud": 40.6178321838379,
+                "longitud": -125.09383392334,
+                "profundidad_km": 10.3599996566772
+            },
+            {
+                "id": "us6000u49h",
+                "magnitud": 4.2,
+                "lugar": "184 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-23 02:53:40",
+                "latitud": 32.3149,
+                "longitud": 93.7481,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u49f",
+                "magnitud": 3.2,
+                "lugar": "44 km SW of Sand Point, Alaska",
+                "fecha_evento": "2026-10-23 02:49:47",
+                "latitud": 55.0132,
+                "longitud": -160.9015,
+                "profundidad_km": 26.865
+            },
+            {
+                "id": "us6000u49c",
+                "magnitud": 4.5,
+                "lugar": "58 km SW of Atocha, Bolivia",
+                "fecha_evento": "2026-10-23 02:45:41",
+                "latitud": -21.3469,
+                "longitud": -66.5795,
+                "profundidad_km": 235.829
+            },
+            {
+                "id": "us6000u49a",
+                "magnitud": 4.5,
+                "lugar": "18 km NNW of Yongning, China",
+                "fecha_evento": "2026-10-23 02:17:01",
+                "latitud": 27.9986,
+                "longitud": 100.6189,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u491",
+                "magnitud": 4,
+                "lugar": "2 km S of Valle Rico, Panama",
+                "fecha_evento": "2026-10-23 01:19:47",
+                "latitud": 7.5941,
+                "longitud": -80.3524,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u48s",
+                "magnitud": 4.1,
+                "lugar": "207 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-23 00:35:11",
+                "latitud": 32.4132,
+                "longitud": 93.9573,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u48r",
+                "magnitud": 4.4,
+                "lugar": "202 km NE of Nagqu, China",
+                "fecha_evento": "2026-10-23 00:24:17",
+                "latitud": 32.6078,
+                "longitud": 93.7355,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71537488",
+                "magnitud": 3.23,
+                "lugar": "77 km ENE of Punta Cana, Dominican Republic",
+                "fecha_evento": "2026-10-23 00:13:35",
+                "latitud": 18.9505,
+                "longitud": -67.785,
+                "profundidad_km": 32.5
+            },
+            {
+                "id": "us6000u48i",
+                "magnitud": 4.5,
+                "lugar": "102 km W of San Antonio de los Cobres, Argentina",
+                "fecha_evento": "2026-10-23 00:09:35",
+                "latitud": -24.286,
+                "longitud": -67.3224,
+                "profundidad_km": 185.541
+            },
+            {
+                "id": "us6000u48b",
+                "magnitud": 4.4,
+                "lugar": "55 km SE of Dalbandin, Pakistan",
+                "fecha_evento": "2026-10-22 23:26:49",
+                "latitud": 28.5388,
+                "longitud": 64.8162,
+                "profundidad_km": 81.725
+            },
+            {
+                "id": "nc75453601",
+                "magnitud": 3.03,
+                "lugar": "15 km S of Tres Pinos, CA",
+                "fecha_evento": "2026-10-22 21:58:44",
+                "latitud": 36.6563339233398,
+                "longitud": -121.301498413086,
+                "profundidad_km": 5.57000017166138
+            },
+            {
+                "id": "us6000u47r",
+                "magnitud": 4,
+                "lugar": "169 km S of False Pass, Alaska",
+                "fecha_evento": "2026-10-22 21:42:21",
+                "latitud": 53.3354,
+                "longitud": -163.5539,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u47n",
+                "magnitud": 4.6,
+                "lugar": "49 km S of Ollagüe, Chile",
+                "fecha_evento": "2026-10-22 21:37:56",
+                "latitud": -21.6653,
+                "longitud": -68.3401,
+                "profundidad_km": 141.88
+            },
+            {
+                "id": "us6000u47l",
+                "magnitud": 4.8,
+                "lugar": "269 km SSW of Severo-Kuril’sk, Russia",
+                "fecha_evento": "2026-10-22 21:09:59",
+                "latitud": 48.3802,
+                "longitud": 154.9209,
+                "profundidad_km": 50.389
+            },
+            {
+                "id": "us6000u473",
+                "magnitud": 5,
+                "lugar": "153 km S of Kokopo, Papua New Guinea",
+                "fecha_evento": "2026-10-22 20:05:04",
+                "latitud": -5.728,
+                "longitud": 152.2646,
+                "profundidad_km": 10
+            },
+            {
+                "id": "hv75062386",
+                "magnitud": 2.7,
+                "lugar": "27 km E of Honaunau-Napoopoo, Hawaii",
+                "fecha_evento": "2026-10-22 19:32:16",
+                "latitud": 19.4226666666667,
+                "longitud": -155.608833333333,
+                "profundidad_km": -1.41
+            },
+            {
+                "id": "us6000u46r",
+                "magnitud": 4.9,
+                "lugar": "104 km NNE of Hihifo, Tonga",
+                "fecha_evento": "2026-10-22 19:06:56",
+                "latitud": -15.1269,
+                "longitud": -173.3304,
+                "profundidad_km": 23.411
+            },
+            {
+                "id": "us6000u45y",
+                "magnitud": 3.9,
+                "lugar": "203 km SSE of King Cove, Alaska",
+                "fecha_evento": "2026-10-22 18:36:32",
+                "latitud": 53.3232,
+                "longitud": -161.3613,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u45j",
+                "magnitud": 5,
+                "lugar": "207 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-22 18:06:44",
+                "latitud": 32.3707,
+                "longitud": 93.9886,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u45f",
+                "magnitud": 4.8,
+                "lugar": "39 km NE of Shikotan, Russia",
+                "fecha_evento": "2026-10-22 17:21:26",
+                "latitud": 44.035,
+                "longitud": 147.0825,
+                "profundidad_km": 76.309
+            },
+            {
+                "id": "us6000u45a",
+                "magnitud": 4.7,
+                "lugar": "190 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-22 16:57:53",
+                "latitud": 32.3207,
+                "longitud": 93.8055,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u457",
+                "magnitud": 4.2,
+                "lugar": "269 km ENE of Dawson City, Canada",
+                "fecha_evento": "2026-10-22 16:51:24",
+                "latitud": 65.0219,
+                "longitud": -134.2798,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u459",
+                "magnitud": 4.8,
+                "lugar": "144 km SSW of ‘Ohonua, Tonga",
+                "fecha_evento": "2026-10-22 16:51:21",
+                "latitud": -22.564,
+                "longitud": -175.4438,
+                "profundidad_km": 35
+            },
+            {
+                "id": "us6000u458",
+                "magnitud": 4.5,
+                "lugar": "203 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-22 16:50:16",
+                "latitud": 32.4493,
+                "longitud": 93.8798,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u455",
+                "magnitud": 4.6,
+                "lugar": "193 km NE of Nagqu, China",
+                "fecha_evento": "2026-10-22 16:45:00",
+                "latitud": 32.4691,
+                "longitud": 93.7403,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u451",
+                "magnitud": 4.9,
+                "lugar": "210 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-22 16:21:33",
+                "latitud": 32.4918,
+                "longitud": 93.9447,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u44z",
+                "magnitud": 4.3,
+                "lugar": "219 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-22 15:57:55",
+                "latitud": 32.5222,
+                "longitud": 94.0289,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u44w",
+                "magnitud": 4.9,
+                "lugar": "western Xizang",
+                "fecha_evento": "2026-10-22 15:45:37",
+                "latitud": 33.7966,
+                "longitud": 86.2316,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u44u",
+                "magnitud": 4.7,
+                "lugar": "139 km ENE of Kashgar, China",
+                "fecha_evento": "2026-10-22 15:27:48",
+                "latitud": 40.1472,
+                "longitud": 77.3556,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026uyfanq",
+                "magnitud": 2.6,
+                "lugar": "86 km SSE of Igiugig, Alaska",
+                "fecha_evento": "2026-10-22 15:19:57",
+                "latitud": 58.648,
+                "longitud": -155.169,
+                "profundidad_km": 136.4
+            },
+            {
+                "id": "us6000u44n",
+                "magnitud": 5.2,
+                "lugar": "201 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-22 15:12:04",
+                "latitud": 32.4401,
+                "longitud": 93.8669,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000u43g",
+                "magnitud": 7,
+                "lugar": "191 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-22 14:33:40",
+                "latitud": 32.3805,
+                "longitud": 93.7797,
+                "profundidad_km": 18
+            },
+            {
+                "id": "uw714124012",
+                "magnitud": 3.02,
+                "lugar": "3 km W of Columbia City, Oregon",
+                "fecha_evento": "2026-10-22 14:25:19",
+                "latitud": 45.8861666666667,
+                "longitud": -122.856833333333,
+                "profundidad_km": 24.01
+            }
+        ]
     }
 ]
