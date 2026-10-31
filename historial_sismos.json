@@ -58021,5 +58021,400 @@
         "periodo_hasta": "2026-10-30 13:56:09",
         "total_sismos_nuevos": 0,
         "sismos": []
+    },
+    {
+        "fecha_consulta": "2026-10-31 13:16:09",
+        "periodo_desde": "2026-10-30 13:56:09",
+        "periodo_hasta": "2026-10-31 13:16:09",
+        "total_sismos_nuevos": 43,
+        "sismos": [
+            {
+                "id": "us7000tuif",
+                "magnitud": 5,
+                "lugar": "196 km NW of Port-Olry, Vanuatu",
+                "fecha_evento": "2026-10-31 11:31:12",
+                "latitud": -13.9069,
+                "longitud": 165.6759,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tui9",
+                "magnitud": 4.4,
+                "lugar": "Fiji region",
+                "fecha_evento": "2026-10-31 10:42:10",
+                "latitud": -19.2212,
+                "longitud": -177.4956,
+                "profundidad_km": 575.79
+            },
+            {
+                "id": "pr71538038",
+                "magnitud": 3.1,
+                "lugar": "95 km NNW of Sandy Ground Village, Anguilla",
+                "fecha_evento": "2026-10-31 09:30:49",
+                "latitud": 18.937,
+                "longitud": -63.5703333333333,
+                "profundidad_km": 17.59
+            },
+            {
+                "id": "us7000tuht",
+                "magnitud": 4.9,
+                "lugar": "236 km NW of Port-Olry, Vanuatu",
+                "fecha_evento": "2026-10-31 09:18:32",
+                "latitud": -13.7894,
+                "longitud": 165.2951,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tuhs",
+                "magnitud": 4.9,
+                "lugar": "213 km W of Sola, Vanuatu",
+                "fecha_evento": "2026-10-31 09:15:52",
+                "latitud": -13.7683,
+                "longitud": 165.5833,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71538018",
+                "magnitud": 3.21,
+                "lugar": "60 km ESE of Boca de Yuma, Dominican Republic",
+                "fecha_evento": "2026-10-31 08:45:24",
+                "latitud": 18.0781666666667,
+                "longitud": -68.1296666666667,
+                "profundidad_km": 76.39
+            },
+            {
+                "id": "aka2026vogzdd",
+                "magnitud": 3,
+                "lugar": "89 km SSE of Akutan, Alaska",
+                "fecha_evento": "2026-10-31 08:09:58",
+                "latitud": 53.413,
+                "longitud": -165.175,
+                "profundidad_km": 10.2
+            },
+            {
+                "id": "us7000tuhe",
+                "magnitud": 2.5,
+                "lugar": "12 km NW of Junction, Utah",
+                "fecha_evento": "2026-10-31 07:37:26",
+                "latitud": 38.3161,
+                "longitud": -112.3258,
+                "profundidad_km": 7.806
+            },
+            {
+                "id": "us7000tuh8",
+                "magnitud": 4.4,
+                "lugar": "222 km ENE of Nagqu, China",
+                "fecha_evento": "2026-10-31 05:52:03",
+                "latitud": 32.5197,
+                "longitud": 94.0675,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tuh7",
+                "magnitud": 4.4,
+                "lugar": "35 km SE of Vilyuchinsk, Russia",
+                "fecha_evento": "2026-10-31 05:29:19",
+                "latitud": 52.6834,
+                "longitud": 158.7423,
+                "profundidad_km": 97.05
+            },
+            {
+                "id": "aka2026vobaga",
+                "magnitud": 3.3,
+                "lugar": "44 km SSW of Nikolski, Alaska",
+                "fecha_evento": "2026-10-31 05:12:44",
+                "latitud": 52.588,
+                "longitud": -169.181,
+                "profundidad_km": 43.3
+            },
+            {
+                "id": "uu80162171",
+                "magnitud": 2.98,
+                "lugar": "9 km NW of Junction, Utah",
+                "fecha_evento": "2026-10-31 04:52:17",
+                "latitud": 38.2931666666667,
+                "longitud": -112.297333333333,
+                "profundidad_km": 7.56
+            },
+            {
+                "id": "uu80162166",
+                "magnitud": 3.31,
+                "lugar": "8 km NW of Junction, Utah",
+                "fecha_evento": "2026-10-31 04:44:15",
+                "latitud": 38.2876666666667,
+                "longitud": -112.2915,
+                "profundidad_km": 5.71
+            },
+            {
+                "id": "us7000tugv",
+                "magnitud": 4.6,
+                "lugar": "Izu Islands, Japan region",
+                "fecha_evento": "2026-10-31 03:14:13",
+                "latitud": 30.9098,
+                "longitud": 142.5186,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tugs",
+                "magnitud": 4.5,
+                "lugar": "central Mid-Atlantic Ridge",
+                "fecha_evento": "2026-10-31 02:37:19",
+                "latitud": 7.087,
+                "longitud": -34.6828,
+                "profundidad_km": 10
+            },
+            {
+                "id": "hv75066446",
+                "magnitud": 2.47,
+                "lugar": "1 km WSW of Pāhala, Hawaii",
+                "fecha_evento": "2026-10-31 01:28:02",
+                "latitud": 19.2006664276123,
+                "longitud": -155.488006591797,
+                "profundidad_km": 30.7199993133545
+            },
+            {
+                "id": "us7000tugl",
+                "magnitud": 4.3,
+                "lugar": "84 km S of Severo-Kuril’sk, Russia",
+                "fecha_evento": "2026-10-31 01:21:36",
+                "latitud": 49.9164,
+                "longitud": 156.0245,
+                "profundidad_km": 84.736
+            },
+            {
+                "id": "aka2026vnswqz",
+                "magnitud": 2.6,
+                "lugar": "290 km W of Adak, Alaska",
+                "fecha_evento": "2026-10-31 01:07:25",
+                "latitud": 51.865,
+                "longitud": 179.15,
+                "profundidad_km": 29.6
+            },
+            {
+                "id": "us7000tugg",
+                "magnitud": 4.2,
+                "lugar": "35 km SSE of Sykiá, Greece",
+                "fecha_evento": "2026-10-31 01:01:59",
+                "latitud": 39.7672,
+                "longitud": 24.1487,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tugf",
+                "magnitud": 4.5,
+                "lugar": "223 km SE of Katsuura, Japan",
+                "fecha_evento": "2026-10-31 00:32:46",
+                "latitud": 33.5548,
+                "longitud": 141.8118,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tugd",
+                "magnitud": 4.8,
+                "lugar": "97 km ENE of Port-Olry, Vanuatu",
+                "fecha_evento": "2026-10-31 00:26:35",
+                "latitud": -14.8091,
+                "longitud": 167.9478,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026vnquif",
+                "magnitud": 2.7,
+                "lugar": "95 km S of Sand Point, Alaska",
+                "fecha_evento": "2026-10-31 00:04:39",
+                "latitud": 54.49,
+                "longitud": -160.259,
+                "profundidad_km": 5.6
+            },
+            {
+                "id": "aka2026vnovmh",
+                "magnitud": 3,
+                "lugar": "74 km SSE of McGrath, Alaska",
+                "fecha_evento": "2026-10-30 23:06:11",
+                "latitud": 62.365,
+                "longitud": -154.924,
+                "profundidad_km": 5
+            },
+            {
+                "id": "aka2026vnojyv",
+                "magnitud": 3.1,
+                "lugar": "54 km WNW of Anchor Point, Alaska",
+                "fecha_evento": "2026-10-30 22:53:01",
+                "latitud": 59.892,
+                "longitud": -152.778,
+                "profundidad_km": 102.5
+            },
+            {
+                "id": "us7000tufp",
+                "magnitud": 4.6,
+                "lugar": "33 km NE of Mazo Cruz, Peru",
+                "fecha_evento": "2026-10-30 22:46:57",
+                "latitud": -16.5439,
+                "longitud": -69.4844,
+                "profundidad_km": 194.807
+            },
+            {
+                "id": "us7000tufe",
+                "magnitud": 4.3,
+                "lugar": "south of the Fiji Islands",
+                "fecha_evento": "2026-10-30 22:23:42",
+                "latitud": -24.7289,
+                "longitud": 179.7044,
+                "profundidad_km": 521.136
+            },
+            {
+                "id": "us7000tufc",
+                "magnitud": 4.7,
+                "lugar": "222 km NW of Port-Olry, Vanuatu",
+                "fecha_evento": "2026-10-30 22:14:55",
+                "latitud": -13.8288,
+                "longitud": 165.4282,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tuey",
+                "magnitud": 4.4,
+                "lugar": "36 km E of Koseda, Japan",
+                "fecha_evento": "2026-10-30 21:15:19",
+                "latitud": 30.3348,
+                "longitud": 131.0205,
+                "profundidad_km": 35
+            },
+            {
+                "id": "us7000tuep",
+                "magnitud": 4.1,
+                "lugar": "73 km SSW of Calama, Chile",
+                "fecha_evento": "2026-10-30 20:54:16",
+                "latitud": -23.1065,
+                "longitud": -69.0806,
+                "profundidad_km": 84.622
+            },
+            {
+                "id": "us7000tuej",
+                "magnitud": 4.4,
+                "lugar": "37 km S of Nishinoomote, Japan",
+                "fecha_evento": "2026-10-30 20:26:46",
+                "latitud": 30.3973,
+                "longitud": 131.0637,
+                "profundidad_km": 48.533
+            },
+            {
+                "id": "aka2026vnjdai",
+                "magnitud": 2.8,
+                "lugar": "56 km NNW of Petersville, Alaska",
+                "fecha_evento": "2026-10-30 20:14:53",
+                "latitud": 62.99,
+                "longitud": -151.046,
+                "profundidad_km": 130.6
+            },
+            {
+                "id": "av94477963",
+                "magnitud": 2.61,
+                "lugar": "5 km W of Dutch Harbor, Alaska",
+                "fecha_evento": "2026-10-30 19:53:02",
+                "latitud": 53.8991666666667,
+                "longitud": -166.630166666667,
+                "profundidad_km": 8.79
+            },
+            {
+                "id": "aka2026vnhpxc",
+                "magnitud": 2.5,
+                "lugar": "63 km WNW of Happy Valley, Alaska",
+                "fecha_evento": "2026-10-30 19:29:40",
+                "latitud": 60.069,
+                "longitud": -152.846,
+                "profundidad_km": 117.4
+            },
+            {
+                "id": "pr71537968",
+                "magnitud": 3.39,
+                "lugar": "120 km N of Cruz Bay, U.S. Virgin Islands",
+                "fecha_evento": "2026-10-30 19:13:55",
+                "latitud": 19.4125,
+                "longitud": -64.6793333333333,
+                "profundidad_km": 58.16
+            },
+            {
+                "id": "aka2026vngzyw",
+                "magnitud": 4.4,
+                "lugar": "14 km SE of Eureka Roadhouse, Alaska",
+                "fecha_evento": "2026-10-30 19:11:23",
+                "latitud": 61.833,
+                "longitud": -147.003,
+                "profundidad_km": 19.1
+            },
+            {
+                "id": "us7000tudk",
+                "magnitud": 4.5,
+                "lugar": "236 km ESE of Zyryanka, Russia",
+                "fecha_evento": "2026-10-30 18:01:10",
+                "latitud": 65.0985,
+                "longitud": 155.7595,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026vnecvk",
+                "magnitud": 2.5,
+                "lugar": "44 km W of Anchor Point, Alaska",
+                "fecha_evento": "2026-10-30 17:44:44",
+                "latitud": 59.719,
+                "longitud": -152.607,
+                "profundidad_km": 91.7
+            },
+            {
+                "id": "us7000tub8",
+                "magnitud": 4.6,
+                "lugar": "7 km NE of Tago, Philippines",
+                "fecha_evento": "2026-10-30 17:06:26",
+                "latitud": 9.0593,
+                "longitud": 126.2834,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tu97",
+                "magnitud": 4.2,
+                "lugar": "262 km NNE of Lospalos, Timor Leste",
+                "fecha_evento": "2026-10-30 16:54:42",
+                "latitud": -6.5295,
+                "longitud": 128.2892,
+                "profundidad_km": 361.426
+            },
+            {
+                "id": "us7000tu93",
+                "magnitud": 4.4,
+                "lugar": "284 km E of Levuka, Fiji",
+                "fecha_evento": "2026-10-30 16:48:49",
+                "latitud": -17.9769,
+                "longitud": -178.0028,
+                "profundidad_km": 615.692
+            },
+            {
+                "id": "us7000tu91",
+                "magnitud": 4.1,
+                "lugar": "97 km WSW of Puerto Madero, Mexico",
+                "fecha_evento": "2026-10-30 16:43:25",
+                "latitud": 14.3043,
+                "longitud": -93.2141,
+                "profundidad_km": 35
+            },
+            {
+                "id": "nc75459877",
+                "magnitud": 2.7,
+                "lugar": "32 km SE of Bodie, CA",
+                "fecha_evento": "2026-10-30 15:45:49",
+                "latitud": 38.0378341674805,
+                "longitud": -118.724998474121,
+                "profundidad_km": 14.2399997711182
+            },
+            {
+                "id": "nc75459827",
+                "magnitud": 2.9,
+                "lugar": "29 km W of Petrolia, CA",
+                "fecha_evento": "2026-10-30 13:56:44",
+                "latitud": 40.2994995117188,
+                "longitud": -124.625831604004,
+                "profundidad_km": 12.8599996566772
+            }
+        ]
     }
 ]
