@@ -59317,5 +59317,283 @@
         "periodo_hasta": "2026-11-02 16:56:12",
         "total_sismos_nuevos": 0,
         "sismos": []
+    },
+    {
+        "fecha_consulta": "2026-11-03 14:49:35",
+        "periodo_desde": "2026-11-02 16:56:12",
+        "periodo_hasta": "2026-11-03 14:49:35",
+        "total_sismos_nuevos": 30,
+        "sismos": [
+            {
+                "id": "us7000tv5i",
+                "magnitud": 4.9,
+                "lugar": "South Sandwich Islands region",
+                "fecha_evento": "2026-11-03 13:34:06",
+                "latitud": -58.8399,
+                "longitud": -26.4744,
+                "profundidad_km": 143.595
+            },
+            {
+                "id": "aka2026vudyyh",
+                "magnitud": 2.6,
+                "lugar": "54 km WNW of Nanwalek, Alaska",
+                "fecha_evento": "2026-11-03 12:37:46",
+                "latitud": 59.543,
+                "longitud": -152.817,
+                "profundidad_km": 98.3
+            },
+            {
+                "id": "aka2026vudflk",
+                "magnitud": 2.5,
+                "lugar": "28 km NNW of Beluga, Alaska",
+                "fecha_evento": "2026-11-03 12:15:23",
+                "latitud": 61.394,
+                "longitud": -151.208,
+                "profundidad_km": 70.1
+            },
+            {
+                "id": "us7000tv51",
+                "magnitud": 4.9,
+                "lugar": "101 km SSE of Palekastro, Greece",
+                "fecha_evento": "2026-11-03 11:03:47",
+                "latitud": 34.3254,
+                "longitud": 26.5713,
+                "profundidad_km": 45.662
+            },
+            {
+                "id": "us7000tv4i",
+                "magnitud": 5.4,
+                "lugar": "24 km NNW of Rioblanco, Colombia",
+                "fecha_evento": "2026-11-03 09:13:14",
+                "latitud": 3.7386,
+                "longitud": -75.7198,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026vtvtat",
+                "magnitud": 2.5,
+                "lugar": "9 km N of Susitna, Alaska",
+                "fecha_evento": "2026-11-03 08:31:06",
+                "latitud": 61.631,
+                "longitud": -150.521,
+                "profundidad_km": 51.8
+            },
+            {
+                "id": "us7000tv3q",
+                "magnitud": 4.8,
+                "lugar": "6 km S of Asahi, Japan",
+                "fecha_evento": "2026-11-03 05:40:18",
+                "latitud": 35.6591,
+                "longitud": 140.648,
+                "profundidad_km": 52.267
+            },
+            {
+                "id": "us7000tv3l",
+                "magnitud": 4.5,
+                "lugar": "31 km E of Mawlaik, Burma (Myanmar)",
+                "fecha_evento": "2026-11-03 05:23:44",
+                "latitud": 23.6023,
+                "longitud": 94.7089,
+                "profundidad_km": 116.353
+            },
+            {
+                "id": "pr71538378",
+                "magnitud": 2.84,
+                "lugar": "8 km NW of Puerto Real, Puerto Rico",
+                "fecha_evento": "2026-11-03 04:04:13",
+                "latitud": 18.1371666666667,
+                "longitud": -67.2361666666667,
+                "profundidad_km": 98.37
+            },
+            {
+                "id": "pr71538373",
+                "magnitud": 2.54,
+                "lugar": "25 km N of Tierras Nuevas Poniente, Puerto Rico",
+                "fecha_evento": "2026-11-03 03:34:01",
+                "latitud": 18.6888333333333,
+                "longitud": -66.4431666666667,
+                "profundidad_km": 32.53
+            },
+            {
+                "id": "us7000tv2p",
+                "magnitud": 4.7,
+                "lugar": "74 km E of Petropavlovsk-Kamchatsky, Russia",
+                "fecha_evento": "2026-11-03 03:13:12",
+                "latitud": 53.0409,
+                "longitud": 159.7384,
+                "profundidad_km": 75.58
+            },
+            {
+                "id": "us7000tv2m",
+                "magnitud": 3.1,
+                "lugar": "3 km NNE of Ejido Nuevo León, Mexico",
+                "fecha_evento": "2026-11-03 03:02:49",
+                "latitud": 32.4423,
+                "longitud": -115.1762,
+                "profundidad_km": 10
+            },
+            {
+                "id": "ci41571744",
+                "magnitud": 3.45636011376983,
+                "lugar": "5 km NE of Delta, B.C., MX",
+                "fecha_evento": "2026-11-03 03:02:49",
+                "latitud": 32.3881683349609,
+                "longitud": -115.161003112793,
+                "profundidad_km": 19
+            },
+            {
+                "id": "aka2026vtkchh",
+                "magnitud": 2.8,
+                "lugar": "12 km W of Nikiski, Alaska",
+                "fecha_evento": "2026-11-03 02:41:55",
+                "latitud": 60.71,
+                "longitud": -151.509,
+                "profundidad_km": 78.9
+            },
+            {
+                "id": "us7000tv27",
+                "magnitud": 4.3,
+                "lugar": "25 km NNE of Camiña, Chile",
+                "fecha_evento": "2026-11-03 01:41:27",
+                "latitud": -19.1084,
+                "longitud": -69.307,
+                "profundidad_km": 106.613
+            },
+            {
+                "id": "ci41571712",
+                "magnitud": 2.75,
+                "lugar": "7 km NNE of Delta, B.C., MX",
+                "fecha_evento": "2026-11-03 01:33:01",
+                "latitud": 32.4171666666667,
+                "longitud": -115.1665,
+                "profundidad_km": 19.49
+            },
+            {
+                "id": "aka2026vtfvls",
+                "magnitud": 3,
+                "lugar": "51 km E of Chignik, Alaska",
+                "fecha_evento": "2026-11-03 00:34:06",
+                "latitud": 56.3,
+                "longitud": -157.566,
+                "profundidad_km": 47.6
+            },
+            {
+                "id": "aka2026vtfqar",
+                "magnitud": 3.4,
+                "lugar": "86 km W of Akhiok, Alaska",
+                "fecha_evento": "2026-11-03 00:27:57",
+                "latitud": 56.872,
+                "longitud": -155.591,
+                "profundidad_km": 25.3
+            },
+            {
+                "id": "us7000tv1v",
+                "magnitud": 4.2,
+                "lugar": "168 km ENE of Nagqu, China",
+                "fecha_evento": "2026-11-03 00:27:08",
+                "latitud": 32.2919,
+                "longitud": 93.5624,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000tv1e",
+                "magnitud": 4.1,
+                "lugar": "63 km W of Flaxmere, New Zealand",
+                "fecha_evento": "2026-11-02 23:35:13",
+                "latitud": -39.5581,
+                "longitud": 176.0449,
+                "profundidad_km": 62.335
+            },
+            {
+                "id": "uu80162486",
+                "magnitud": 2.58,
+                "lugar": "15 km NNE of Milford, Utah",
+                "fecha_evento": "2026-11-02 23:26:35",
+                "latitud": 38.514,
+                "longitud": -112.913666666667,
+                "profundidad_km": 3.37
+            },
+            {
+                "id": "aka2026vtdcvd",
+                "magnitud": 2.5,
+                "lugar": "26 km SE of Susitna North, Alaska",
+                "fecha_evento": "2026-11-02 23:12:52",
+                "latitud": 62.01,
+                "longitud": -149.459,
+                "profundidad_km": 0.1
+            },
+            {
+                "id": "aka2026vtbewf",
+                "magnitud": 2.6,
+                "lugar": "10 km WSW of Manley Hot Springs, Alaska",
+                "fecha_evento": "2026-11-02 22:14:59",
+                "latitud": 64.966,
+                "longitud": -150.842,
+                "profundidad_km": 16.4
+            },
+            {
+                "id": "us7000tv08",
+                "magnitud": 4.2,
+                "lugar": "201 km W of Port McNeill, Canada",
+                "fecha_evento": "2026-11-02 21:10:29",
+                "latitud": 50.7109,
+                "longitud": -129.9302,
+                "profundidad_km": 10
+            },
+            {
+                "id": "nc75461677",
+                "magnitud": 2.79,
+                "lugar": "8 km E of Lower Lake, CA",
+                "fecha_evento": "2026-11-02 21:02:08",
+                "latitud": 38.9039993286133,
+                "longitud": -122.517997741699,
+                "profundidad_km": 7.11999988555908
+            },
+            {
+                "id": "us7000tv03",
+                "magnitud": 4.6,
+                "lugar": "226 km NW of Port-Olry, Vanuatu",
+                "fecha_evento": "2026-11-02 20:54:25",
+                "latitud": -13.8072,
+                "longitud": 165.3938,
+                "profundidad_km": 10
+            },
+            {
+                "id": "nc75461642",
+                "magnitud": 2.51,
+                "lugar": "8 km E of Lower Lake, CA",
+                "fecha_evento": "2026-11-02 20:34:16",
+                "latitud": 38.9206657409668,
+                "longitud": -122.521667480469,
+                "profundidad_km": 0.930000007152557
+            },
+            {
+                "id": "us7000tuzd",
+                "magnitud": 4.5,
+                "lugar": "168 km SE of San Jose Village, Northern Mariana Islands",
+                "fecha_evento": "2026-11-02 19:59:04",
+                "latitud": 13.795,
+                "longitud": 146.6114,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026vswaye",
+                "magnitud": 2.7,
+                "lugar": "52 km WNW of Ninilchik, Alaska",
+                "fecha_evento": "2026-11-02 19:40:23",
+                "latitud": 60.178,
+                "longitud": -152.572,
+                "profundidad_km": 111.8
+            },
+            {
+                "id": "us7000tuy2",
+                "magnitud": 4,
+                "lugar": "Izu Islands, Japan region",
+                "fecha_evento": "2026-11-02 16:58:25",
+                "latitud": 29.962,
+                "longitud": 139.1534,
+                "profundidad_km": 399.286
+            }
+        ]
     }
 ]
