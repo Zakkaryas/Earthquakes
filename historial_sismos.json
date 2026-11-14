@@ -62920,5 +62920,445 @@
         "periodo_hasta": "2026-11-13 15:14:06",
         "total_sismos_nuevos": 0,
         "sismos": []
+    },
+    {
+        "fecha_consulta": "2026-11-14 13:55:34",
+        "periodo_desde": "2026-11-13 15:14:06",
+        "periodo_hasta": "2026-11-14 13:55:34",
+        "total_sismos_nuevos": 48,
+        "sismos": [
+            {
+                "id": "us7000ty8u",
+                "magnitud": 4.5,
+                "lugar": "137 km SE of Petropavlovsk-Kamchatsky, Russia",
+                "fecha_evento": "2026-11-14 12:28:00",
+                "latitud": 52.3603,
+                "longitud": 160.2984,
+                "profundidad_km": 17.439
+            },
+            {
+                "id": "hv75070327",
+                "magnitud": 2.66,
+                "lugar": "22 km ESE of Naalehu, Hawaii",
+                "fecha_evento": "2026-11-14 12:08:46",
+                "latitud": 18.9871673583984,
+                "longitud": -155.385330200195,
+                "profundidad_km": 29.3999996185303
+            },
+            {
+                "id": "ci41361959",
+                "magnitud": 2.66,
+                "lugar": "8 km W of Holtville, CA",
+                "fecha_evento": "2026-11-14 11:14:17",
+                "latitud": 32.8195,
+                "longitud": -115.46333,
+                "profundidad_km": 7
+            },
+            {
+                "id": "ci41361951",
+                "magnitud": 3,
+                "lugar": "7 km W of Holtville, CA",
+                "fecha_evento": "2026-11-14 11:13:58",
+                "latitud": 32.80067,
+                "longitud": -115.451,
+                "profundidad_km": 10.97
+            },
+            {
+                "id": "ci41361943",
+                "magnitud": 2.65,
+                "lugar": "8 km W of Holtville, CA",
+                "fecha_evento": "2026-11-14 11:13:35",
+                "latitud": 32.816,
+                "longitud": -115.46383,
+                "profundidad_km": 10.28
+            },
+            {
+                "id": "ci41361935",
+                "magnitud": 3.26,
+                "lugar": "8 km W of Holtville, CA",
+                "fecha_evento": "2026-11-14 11:12:55",
+                "latitud": 32.81217,
+                "longitud": -115.46616,
+                "profundidad_km": 16.18
+            },
+            {
+                "id": "ci41361927",
+                "magnitud": 3.09,
+                "lugar": "8 km W of Holtville, CA",
+                "fecha_evento": "2026-11-14 11:09:27",
+                "latitud": 32.815,
+                "longitud": -115.4635,
+                "profundidad_km": 11.63
+            },
+            {
+                "id": "ci41361919",
+                "magnitud": 3.01,
+                "lugar": "7 km W of Holtville, CA",
+                "fecha_evento": "2026-11-14 11:05:21",
+                "latitud": 32.81283,
+                "longitud": -115.45883,
+                "profundidad_km": 14.14
+            },
+            {
+                "id": "us7000ty84",
+                "magnitud": 5.5,
+                "lugar": "northern Mid-Atlantic Ridge",
+                "fecha_evento": "2026-11-14 09:26:13",
+                "latitud": 30.122,
+                "longitud": -42.6346,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71539253",
+                "magnitud": 2.73,
+                "lugar": "29 km N of Hatillo, Puerto Rico",
+                "fecha_evento": "2026-11-14 09:08:16",
+                "latitud": 18.7483333333333,
+                "longitud": -66.7786666666667,
+                "profundidad_km": 50.05
+            },
+            {
+                "id": "uw714139181",
+                "magnitud": 3.42,
+                "lugar": "14 km WSW of Conconully, Washington",
+                "fecha_evento": "2026-11-14 08:30:07",
+                "latitud": 48.4878333333333,
+                "longitud": -119.918166666667,
+                "profundidad_km": 8.91
+            },
+            {
+                "id": "pr2026318000",
+                "magnitud": 3.55,
+                "lugar": "113 km N of San Antonio, Puerto Rico",
+                "fecha_evento": "2026-11-14 07:39:11",
+                "latitud": 19.5083,
+                "longitud": -67.2648,
+                "profundidad_km": 28
+            },
+            {
+                "id": "us7000ty7m",
+                "magnitud": 4.1,
+                "lugar": "southeast of Shikoku, Japan",
+                "fecha_evento": "2026-11-14 07:24:59",
+                "latitud": 30.0796,
+                "longitud": 136.9461,
+                "profundidad_km": 506.899
+            },
+            {
+                "id": "aka2026wobqvm",
+                "magnitud": 2.7,
+                "lugar": "37 km SW of Chenega, Alaska",
+                "fecha_evento": "2026-11-14 07:21:19",
+                "latitud": 59.852,
+                "longitud": -148.534,
+                "profundidad_km": 14.4
+            },
+            {
+                "id": "us7000ty7j",
+                "magnitud": 2.7,
+                "lugar": "105 km N of Yakutat, Alaska",
+                "fecha_evento": "2026-11-14 07:19:06",
+                "latitud": 60.49,
+                "longitud": -139.8841,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ty7h",
+                "magnitud": 4.6,
+                "lugar": "102 km NNE of Hihifo, Tonga",
+                "fecha_evento": "2026-11-14 07:02:22",
+                "latitud": -15.0887,
+                "longitud": -173.446,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026woawtk",
+                "magnitud": 2.8,
+                "lugar": "23 km S of Denali National Park, Alaska",
+                "fecha_evento": "2026-11-14 06:58:06",
+                "latitud": 63.334,
+                "longitud": -151.738,
+                "profundidad_km": 17.8
+            },
+            {
+                "id": "us7000ty7d",
+                "magnitud": 5.2,
+                "lugar": "State of Yap, Federated States of Micronesia",
+                "fecha_evento": "2026-11-14 06:52:26",
+                "latitud": 9.7032,
+                "longitud": 147.3631,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ty7b",
+                "magnitud": 4.8,
+                "lugar": "West Chile Rise",
+                "fecha_evento": "2026-11-14 06:33:19",
+                "latitud": -36.4613,
+                "longitud": -97.9575,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ty72",
+                "magnitud": 4,
+                "lugar": "32 km SE of Kargil, India",
+                "fecha_evento": "2026-11-14 04:59:27",
+                "latitud": 34.3601,
+                "longitud": 76.392,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ty73",
+                "magnitud": 4.5,
+                "lugar": "western Indian-Antarctic Ridge",
+                "fecha_evento": "2026-11-14 04:59:00",
+                "latitud": -50.3735,
+                "longitud": 139.6657,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026wnvaqb",
+                "magnitud": 2.5,
+                "lugar": "12 km SSW of Skwentna, Alaska",
+                "fecha_evento": "2026-11-14 04:02:43",
+                "latitud": 61.892,
+                "longitud": -151.528,
+                "profundidad_km": 84.4
+            },
+            {
+                "id": "us7000ty6p",
+                "magnitud": 4.7,
+                "lugar": "54 km NW of San Antonio de los Cobres, Argentina",
+                "fecha_evento": "2026-11-14 03:18:26",
+                "latitud": -23.9436,
+                "longitud": -66.7642,
+                "profundidad_km": 216.092
+            },
+            {
+                "id": "us7000ty6n",
+                "magnitud": 5.2,
+                "lugar": "off the west coast of northern Sumatra",
+                "fecha_evento": "2026-11-14 02:59:29",
+                "latitud": 3.304,
+                "longitud": 92.8261,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ty6e",
+                "magnitud": 4.5,
+                "lugar": "Fiji region",
+                "fecha_evento": "2026-11-14 02:21:07",
+                "latitud": -19.5803,
+                "longitud": -177.739,
+                "profundidad_km": 587.447
+            },
+            {
+                "id": "tx2026wjzfmm",
+                "magnitud": 2.6,
+                "lugar": "17 km ENE of Tilden, Texas",
+                "fecha_evento": "2026-11-14 01:00:51",
+                "latitud": 28.525,
+                "longitud": -98.384,
+                "profundidad_km": 8.0252
+            },
+            {
+                "id": "tx2026wjxygm",
+                "magnitud": 2.7,
+                "lugar": "58 km S of Whites City, New Mexico",
+                "fecha_evento": "2026-11-14 00:26:00",
+                "latitud": 31.653,
+                "longitud": -104.433,
+                "profundidad_km": 5.6128
+            },
+            {
+                "id": "us7000ty59",
+                "magnitud": 4.6,
+                "lugar": "100 km WSW of Lebu, Chile",
+                "fecha_evento": "2026-11-13 23:55:15",
+                "latitud": -37.922,
+                "longitud": -74.7229,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ty56",
+                "magnitud": 5.1,
+                "lugar": "153 km NW of Kavieng, Papua New Guinea",
+                "fecha_evento": "2026-11-13 23:30:38",
+                "latitud": -1.5038,
+                "longitud": 149.92,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026wnlsfa",
+                "magnitud": 4.1,
+                "lugar": "98 km ENE of Ouzinkie, Alaska",
+                "fecha_evento": "2026-11-13 23:26:19",
+                "latitud": 58.365,
+                "longitud": -151.055,
+                "profundidad_km": 28.2
+            },
+            {
+                "id": "us7000ty53",
+                "magnitud": 4.6,
+                "lugar": "74 km S of Yudomari, Japan",
+                "fecha_evento": "2026-11-13 23:22:54",
+                "latitud": 29.5604,
+                "longitud": 130.4805,
+                "profundidad_km": 40.852
+            },
+            {
+                "id": "aka2026wnldjc",
+                "magnitud": 2.6,
+                "lugar": "108 km E of Chignik, Alaska",
+                "fecha_evento": "2026-11-13 23:05:57",
+                "latitud": 56.46,
+                "longitud": -156.67,
+                "profundidad_km": 14.8
+            },
+            {
+                "id": "us7000ty4w",
+                "magnitud": 4.9,
+                "lugar": "south of the Kermadec Islands",
+                "fecha_evento": "2026-11-13 22:10:42",
+                "latitud": -32.746,
+                "longitud": -178.6351,
+                "profundidad_km": 36.931
+            },
+            {
+                "id": "tx2026wjsbol",
+                "magnitud": 3.4,
+                "lugar": "56 km S of Whites City, New Mexico",
+                "fecha_evento": "2026-11-13 21:25:33",
+                "latitud": 31.67,
+                "longitud": -104.436,
+                "profundidad_km": 6.0999
+            },
+            {
+                "id": "us7000ty4n",
+                "magnitud": 4.6,
+                "lugar": "33 km SSW of La Libertad, El Salvador",
+                "fecha_evento": "2026-11-13 21:19:55",
+                "latitud": 13.2186,
+                "longitud": -89.4564,
+                "profundidad_km": 59.125
+            },
+            {
+                "id": "aka2026wnfdnx",
+                "magnitud": 3,
+                "lugar": "70 km SSW of Kaktovik, Alaska",
+                "fecha_evento": "2026-11-13 20:06:36",
+                "latitud": 69.512,
+                "longitud": -144.019,
+                "profundidad_km": 17.2
+            },
+            {
+                "id": "us7000ty44",
+                "magnitud": 4.4,
+                "lugar": "14 km SW of Roncesvalles, Colombia",
+                "fecha_evento": "2026-11-13 20:01:41",
+                "latitud": 3.9065,
+                "longitud": -75.6814,
+                "profundidad_km": 9.684
+            },
+            {
+                "id": "us7000ty43",
+                "magnitud": 4.8,
+                "lugar": "153 km NW of Kavieng, Papua New Guinea",
+                "fecha_evento": "2026-11-13 19:49:21",
+                "latitud": -1.4671,
+                "longitud": 149.9613,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ty3x",
+                "magnitud": 4.5,
+                "lugar": "9 km WSW of Chaparral, Colombia",
+                "fecha_evento": "2026-11-13 19:43:17",
+                "latitud": 3.6793,
+                "longitud": -75.5584,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026wndfoc",
+                "magnitud": 2.5,
+                "lugar": "64 km ENE of Susitna North, Alaska",
+                "fecha_evento": "2026-11-13 19:08:39",
+                "latitud": 62.384,
+                "longitud": -148.711,
+                "profundidad_km": 19.5
+            },
+            {
+                "id": "us7000ty3q",
+                "magnitud": 5.1,
+                "lugar": "South Sandwich Islands region",
+                "fecha_evento": "2026-11-13 19:04:07",
+                "latitud": -58.962,
+                "longitud": -25.7253,
+                "profundidad_km": 63.81
+            },
+            {
+                "id": "us7000ty3g",
+                "magnitud": 4.9,
+                "lugar": "south of the Fiji Islands",
+                "fecha_evento": "2026-11-13 18:55:40",
+                "latitud": -23.1808,
+                "longitud": 178.9205,
+                "profundidad_km": 563.277
+            },
+            {
+                "id": "aka2026wnccgo",
+                "magnitud": 3.2,
+                "lugar": "53 km W of Nanwalek, Alaska",
+                "fecha_evento": "2026-11-13 18:36:51",
+                "latitud": 59.422,
+                "longitud": -152.86,
+                "profundidad_km": 91.8
+            },
+            {
+                "id": "us7000ty1d",
+                "magnitud": 3.4,
+                "lugar": "63 km ESE of Sand Point, Alaska",
+                "fecha_evento": "2026-11-13 16:55:30",
+                "latitud": 55.1116,
+                "longitud": -159.583,
+                "profundidad_km": 35
+            },
+            {
+                "id": "us7000ty1a",
+                "magnitud": 5.8,
+                "lugar": "79 km WSW of Changuillo, Peru",
+                "fecha_evento": "2026-11-13 16:43:02",
+                "latitud": -14.9934,
+                "longitud": -75.8807,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us7000ty16",
+                "magnitud": 4.8,
+                "lugar": "10 km SW of Guaymate, Dominican Republic",
+                "fecha_evento": "2026-11-13 16:35:58",
+                "latitud": 18.5286,
+                "longitud": -69.0533,
+                "profundidad_km": 136.742
+            },
+            {
+                "id": "us7000ty14",
+                "magnitud": 5.2,
+                "lugar": "79 km NE of Kuqa, China",
+                "fecha_evento": "2026-11-13 16:17:51",
+                "latitud": 42.1734,
+                "longitud": 83.6657,
+                "profundidad_km": 10
+            },
+            {
+                "id": "nn00926962",
+                "magnitud": 3.38,
+                "lugar": "22 km WNW of Preston, Nevada",
+                "fecha_evento": "2026-11-13 15:34:33",
+                "latitud": 38.9792,
+                "longitud": -115.3039,
+                "profundidad_km": 5.716
+            }
+        ]
     }
 ]
