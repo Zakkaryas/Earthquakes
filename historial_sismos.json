@@ -65161,5 +65161,472 @@
         "periodo_hasta": "2026-11-19 16:28:04",
         "total_sismos_nuevos": 0,
         "sismos": []
+    },
+    {
+        "fecha_consulta": "2026-11-20 15:53:40",
+        "periodo_desde": "2026-11-19 16:28:04",
+        "periodo_hasta": "2026-11-20 15:53:40",
+        "total_sismos_nuevos": 51,
+        "sismos": [
+            {
+                "id": "aka2026wztmfr",
+                "magnitud": 2.7,
+                "lugar": "39 km SE of Denali National Park, Alaska",
+                "fecha_evento": "2026-11-20 15:11:52",
+                "latitud": 63.302,
+                "longitud": -151.14,
+                "profundidad_km": 5
+            },
+            {
+                "id": "nc75469167",
+                "magnitud": 2.68,
+                "lugar": "5 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 15:07:18",
+                "latitud": 36.5615005493164,
+                "longitud": -121.178337097168,
+                "profundidad_km": 6.73000001907349
+            },
+            {
+                "id": "us6000uc9c",
+                "magnitud": 4.7,
+                "lugar": "94 km W of Illapel, Chile",
+                "fecha_evento": "2026-11-20 14:16:15",
+                "latitud": -31.7842,
+                "longitud": -72.1485,
+                "profundidad_km": 10
+            },
+            {
+                "id": "tx2026wvzici",
+                "magnitud": 3,
+                "lugar": "18 km ENE of Tilden, Texas",
+                "fecha_evento": "2026-11-20 13:57:37",
+                "latitud": 28.535,
+                "longitud": -98.383,
+                "profundidad_km": 9.7766
+            },
+            {
+                "id": "us6000uc96",
+                "magnitud": 5.1,
+                "lugar": "15 km SSW of Balangonan, Philippines",
+                "fecha_evento": "2026-11-20 13:09:04",
+                "latitud": 5.4441,
+                "longitud": 125.2986,
+                "profundidad_km": 73.392
+            },
+            {
+                "id": "ci41364111",
+                "magnitud": 4.2,
+                "lugar": "1 km NW of Commerce, CA",
+                "fecha_evento": "2026-11-20 11:25:35",
+                "latitud": 34.00633,
+                "longitud": -118.1665,
+                "profundidad_km": 15.45
+            },
+            {
+                "id": "hv75073642",
+                "magnitud": 2.85,
+                "lugar": "15 km SSW of Volcano, Hawaii",
+                "fecha_evento": "2026-11-20 11:12:32",
+                "latitud": 19.3218326568604,
+                "longitud": -155.304840087891,
+                "profundidad_km": 27.9200000762939
+            },
+            {
+                "id": "aka2026wzlaba",
+                "magnitud": 2.9,
+                "lugar": "70 km SSE of Kokhanok, Alaska",
+                "fecha_evento": "2026-11-20 10:57:55",
+                "latitud": 58.846,
+                "longitud": -154.35,
+                "profundidad_km": 128.7
+            },
+            {
+                "id": "us6000uc8p",
+                "magnitud": 4.4,
+                "lugar": "Fiji region",
+                "fecha_evento": "2026-11-20 10:52:55",
+                "latitud": -19.4364,
+                "longitud": -178.0132,
+                "profundidad_km": 622.356
+            },
+            {
+                "id": "nc75469032",
+                "magnitud": 2.52,
+                "lugar": "6 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 10:49:42",
+                "latitud": 36.5681648254395,
+                "longitud": -121.193496704102,
+                "profundidad_km": 4.59000015258789
+            },
+            {
+                "id": "us6000uc8k",
+                "magnitud": 4.7,
+                "lugar": "southeast of the Loyalty Islands",
+                "fecha_evento": "2026-11-20 10:48:44",
+                "latitud": -24.6606,
+                "longitud": 171.1906,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000uc8g",
+                "magnitud": 5,
+                "lugar": "southeast of the Loyalty Islands",
+                "fecha_evento": "2026-11-20 10:30:01",
+                "latitud": -24.7463,
+                "longitud": 171.4327,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000uc8d",
+                "magnitud": 4.6,
+                "lugar": "40 km SSE of Koróni, Greece",
+                "fecha_evento": "2026-11-20 10:16:14",
+                "latitud": 36.4406,
+                "longitud": 22.082,
+                "profundidad_km": 41.976
+            },
+            {
+                "id": "aka2026wzgrna",
+                "magnitud": 3.4,
+                "lugar": "12 km NNW of Nikiski, Alaska",
+                "fecha_evento": "2026-11-20 08:48:06",
+                "latitud": 60.787,
+                "longitud": -151.402,
+                "profundidad_km": 75.7
+            },
+            {
+                "id": "us6000uc82",
+                "magnitud": 5.4,
+                "lugar": "Carlsberg Ridge",
+                "fecha_evento": "2026-11-20 08:44:11",
+                "latitud": 9.7949,
+                "longitud": 57.7485,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000uc81",
+                "magnitud": 4.7,
+                "lugar": "Carlsberg Ridge",
+                "fecha_evento": "2026-11-20 08:42:54",
+                "latitud": 9.7529,
+                "longitud": 57.8408,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026wzggdo",
+                "magnitud": 2.8,
+                "lugar": "25 km NE of Beluga, Alaska",
+                "fecha_evento": "2026-11-20 08:36:07",
+                "latitud": 61.278,
+                "longitud": -150.706,
+                "profundidad_km": 49.8
+            },
+            {
+                "id": "nc75468947",
+                "magnitud": 2.71,
+                "lugar": "10 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 08:36:04",
+                "latitud": 36.5866661071777,
+                "longitud": -121.231498718262,
+                "profundidad_km": 3.07999992370605
+            },
+            {
+                "id": "nc75468942",
+                "magnitud": 3.06,
+                "lugar": "10 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 08:35:27",
+                "latitud": 36.5986671447754,
+                "longitud": -121.216331481934,
+                "profundidad_km": 6.6399998664856
+            },
+            {
+                "id": "nc75468917",
+                "magnitud": 2.59,
+                "lugar": "8 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 08:25:28",
+                "latitud": 36.5801658630371,
+                "longitud": -121.209167480469,
+                "profundidad_km": 6.13000011444092
+            },
+            {
+                "id": "nc75468902",
+                "magnitud": 2.55,
+                "lugar": "6 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 08:14:45",
+                "latitud": 36.5696678161621,
+                "longitud": -121.19766998291,
+                "profundidad_km": 6.40000009536743
+            },
+            {
+                "id": "nc75468867",
+                "magnitud": 2.54,
+                "lugar": "6 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 07:58:37",
+                "latitud": 36.571834564209,
+                "longitud": -121.195663452148,
+                "profundidad_km": 4.96999979019165
+            },
+            {
+                "id": "nc75468862",
+                "magnitud": 2.6,
+                "lugar": "7 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 07:57:06",
+                "latitud": 36.5728340148926,
+                "longitud": -121.199165344238,
+                "profundidad_km": 5.1100001335144
+            },
+            {
+                "id": "nc75468852",
+                "magnitud": 2.55,
+                "lugar": "9 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 07:46:27",
+                "latitud": 36.5888328552246,
+                "longitud": -121.217330932617,
+                "profundidad_km": 6.84999990463257
+            },
+            {
+                "id": "nc75468807",
+                "magnitud": 2.68,
+                "lugar": "5 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 07:21:11",
+                "latitud": 36.5625,
+                "longitud": -121.186332702637,
+                "profundidad_km": 5.09000015258789
+            },
+            {
+                "id": "nc75468797",
+                "magnitud": 2.64,
+                "lugar": "9 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 07:19:46",
+                "latitud": 36.5803337097168,
+                "longitud": -121.216835021973,
+                "profundidad_km": 5.21999979019165
+            },
+            {
+                "id": "nc75468787",
+                "magnitud": 3.38,
+                "lugar": "6 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 07:14:25",
+                "latitud": 36.5688323974609,
+                "longitud": -121.188667297363,
+                "profundidad_km": 7
+            },
+            {
+                "id": "nc75468742",
+                "magnitud": 2.46,
+                "lugar": "8 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 06:58:23",
+                "latitud": 36.576000213623,
+                "longitud": -121.21516418457,
+                "profundidad_km": 5.44999980926514
+            },
+            {
+                "id": "nc75468732",
+                "magnitud": 2.53,
+                "lugar": "8 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 06:57:14",
+                "latitud": 36.578498840332,
+                "longitud": -121.205001831055,
+                "profundidad_km": 5.92000007629395
+            },
+            {
+                "id": "ci41364023",
+                "magnitud": 2.54,
+                "lugar": "9 km NE of Aguanga, CA",
+                "fecha_evento": "2026-11-20 06:56:40",
+                "latitud": 33.4905,
+                "longitud": -116.79233,
+                "profundidad_km": 10.74
+            },
+            {
+                "id": "nc75468707",
+                "magnitud": 2.96,
+                "lugar": "10 km NNW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 06:52:33",
+                "latitud": 36.6098327636719,
+                "longitud": -121.205169677734,
+                "profundidad_km": 6.07999992370605
+            },
+            {
+                "id": "nc75468702",
+                "magnitud": 4.98,
+                "lugar": "10 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 06:49:16",
+                "latitud": 36.5934982299805,
+                "longitud": -121.220664978027,
+                "profundidad_km": 6.69999980926514
+            },
+            {
+                "id": "aka2026wzbmul",
+                "magnitud": 3,
+                "lugar": "53 km W of Happy Valley, Alaska",
+                "fecha_evento": "2026-11-20 06:12:44",
+                "latitud": 59.998,
+                "longitud": -152.681,
+                "profundidad_km": 94.9
+            },
+            {
+                "id": "nc75468687",
+                "magnitud": 3.31,
+                "lugar": "10 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 06:12:10",
+                "latitud": 36.5923347473145,
+                "longitud": -121.22233581543,
+                "profundidad_km": 6.42999982833862
+            },
+            {
+                "id": "nc75468662",
+                "magnitud": 3.11,
+                "lugar": "9 km NW of Pinnacles, CA",
+                "fecha_evento": "2026-11-20 05:53:23",
+                "latitud": 36.5900001525879,
+                "longitud": -121.216499328613,
+                "profundidad_km": 7.21000003814697
+            },
+            {
+                "id": "pr71539613",
+                "magnitud": 2.82,
+                "lugar": "41 km NW of San Antonio, Puerto Rico",
+                "fecha_evento": "2026-11-20 05:20:10",
+                "latitud": 18.7415,
+                "longitud": -67.3871666666667,
+                "profundidad_km": 11.58
+            },
+            {
+                "id": "us6000uc6c",
+                "magnitud": 4.9,
+                "lugar": "54 km W of Madang, Papua New Guinea",
+                "fecha_evento": "2026-11-20 05:17:45",
+                "latitud": -5.219,
+                "longitud": 145.2974,
+                "profundidad_km": 97.583
+            },
+            {
+                "id": "aka2026wyyiax",
+                "magnitud": 2.6,
+                "lugar": "42 km WNW of Nanwalek, Alaska",
+                "fecha_evento": "2026-11-20 04:37:19",
+                "latitud": 59.525,
+                "longitud": -152.59,
+                "profundidad_km": 77.9
+            },
+            {
+                "id": "us6000uc5s",
+                "magnitud": 4.8,
+                "lugar": "24 km ESE of Calingasta, Argentina",
+                "fecha_evento": "2026-11-20 02:57:18",
+                "latitud": -31.4302,
+                "longitud": -69.1883,
+                "profundidad_km": 113.86
+            },
+            {
+                "id": "us6000uc4z",
+                "magnitud": 4.2,
+                "lugar": "293 km S of Ōyama, Japan",
+                "fecha_evento": "2026-11-20 01:20:07",
+                "latitud": 31.9627,
+                "longitud": 138.4096,
+                "profundidad_km": 312.575
+            },
+            {
+                "id": "us6000uc4v",
+                "magnitud": 5.6,
+                "lugar": "southeast of the Loyalty Islands",
+                "fecha_evento": "2026-11-20 00:49:14",
+                "latitud": -24.6996,
+                "longitud": 171.2326,
+                "profundidad_km": 10
+            },
+            {
+                "id": "aka2026wymdwx",
+                "magnitud": 2.9,
+                "lugar": "98 km SSW of Kaktovik, Alaska",
+                "fecha_evento": "2026-11-19 22:34:06",
+                "latitud": 69.334,
+                "longitud": -144.732,
+                "profundidad_km": 5
+            },
+            {
+                "id": "us6000uc3v",
+                "magnitud": 4.5,
+                "lugar": "236 km W of Tual, Indonesia",
+                "fecha_evento": "2026-11-19 21:49:33",
+                "latitud": -6.0263,
+                "longitud": 130.6505,
+                "profundidad_km": 124.788
+            },
+            {
+                "id": "ci41363879",
+                "magnitud": 2.52,
+                "lugar": "42 km WSW of Olancha, CA",
+                "fecha_evento": "2026-11-19 20:49:27",
+                "latitud": 36.1355,
+                "longitud": -118.43717,
+                "profundidad_km": 6.01
+            },
+            {
+                "id": "aka2026wyhwhm",
+                "magnitud": 2.9,
+                "lugar": "69 km E of Port Alsworth, Alaska",
+                "fecha_evento": "2026-11-19 20:23:56",
+                "latitud": 60.147,
+                "longitud": -153.06,
+                "profundidad_km": 135.9
+            },
+            {
+                "id": "us6000uc2q",
+                "magnitud": 5.3,
+                "lugar": "South Georgia Island region",
+                "fecha_evento": "2026-11-19 20:07:49",
+                "latitud": -55.0035,
+                "longitud": -33.5069,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000uc2t",
+                "magnitud": 5,
+                "lugar": "central East Pacific Rise",
+                "fecha_evento": "2026-11-19 20:07:09",
+                "latitud": -9.1894,
+                "longitud": -109.9127,
+                "profundidad_km": 10
+            },
+            {
+                "id": "us6000uc26",
+                "magnitud": 4.9,
+                "lugar": "13 km WNW of Xichang, China",
+                "fecha_evento": "2026-11-19 18:41:19",
+                "latitud": 27.9346,
+                "longitud": 102.1326,
+                "profundidad_km": 10
+            },
+            {
+                "id": "pr71539568",
+                "magnitud": 3.29,
+                "lugar": "122 km NNE of Punta Cana, Dominican Republic",
+                "fecha_evento": "2026-11-19 18:29:38",
+                "latitud": 19.5113333333333,
+                "longitud": -67.7706666666667,
+                "profundidad_km": 83.49
+            },
+            {
+                "id": "pr71539558",
+                "magnitud": 3.44,
+                "lugar": "108 km NNE of Punta Cana, Dominican Republic",
+                "fecha_evento": "2026-11-19 18:19:01",
+                "latitud": 19.493,
+                "longitud": -68.0318333333333,
+                "profundidad_km": 42.33
+            },
+            {
+                "id": "us6000uc1x",
+                "magnitud": 5.1,
+                "lugar": "99 km WSW of Illapel, Chile",
+                "fecha_evento": "2026-11-19 18:09:46",
+                "latitud": -31.8465,
+                "longitud": -72.1843,
+                "profundidad_km": 10
+            }
+        ]
     }
 ]
