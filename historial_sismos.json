@@ -67620,5 +67620,12 @@
                 "profundidad_km": 10
             }
         ]
+    },
+    {
+        "fecha_consulta": "2026-11-25 17:53:00",
+        "periodo_desde": "2026-11-25 17:46:26",
+        "periodo_hasta": "2026-11-25 17:53:00",
+        "total_sismos_nuevos": 0,
+        "sismos": []
     }
 ]
